@@ -1,0 +1,2404 @@
+[
+  {
+    "name": "Sisig",
+    "description": "Sisig is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "55 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1/2 kg chicken breast",
+      "1/2 cup breadcrumbs",
+      "1 small carrot, minced",
+      "1 red chili (optional)",
+      "Salt to taste",
+      "2 eggs",
+      "1/2 cup grated cheese"
+    ],
+    "instructions": [
+      "Add water and bring to a boil.",
+      "Serve hot with steamed rice.",
+      "Lower heat and simmer until tender.",
+      "Season with salt and pepper to taste.",
+      "Heat oil in a pan over medium heat.",
+      "Add the meat and cook until browned.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes."
+    ]
+  },
+  {
+    "name": "Tocino",
+    "description": "Tocino is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "87 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg beef sirloin",
+      "1/2 cup vinegar",
+      "1 tbsp soy sauce",
+      "2 eggs",
+      "2 cloves garlic",
+      "1 onion, chopped",
+      "1/2 cup breadcrumbs"
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat.",
+      "Add water and bring to a boil.",
+      "Lower heat and simmer until tender.",
+      "Add the meat and cook until browned.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes."
+    ]
+  },
+  {
+    "name": "Bringhe",
+    "description": "Bringhe is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "49 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1/2 kg shrimp",
+      "1 tsp ground pepper",
+      "1 red chili (optional)",
+      "1/2 cup breadcrumbs",
+      "Salt to taste",
+      "1/2 cup green peas",
+      "2 cloves garlic",
+      "1 tbsp soy sauce"
+    ],
+    "instructions": [
+      "Sauté garlic and onions until fragrant.",
+      "Season with salt and pepper to taste.",
+      "Lower heat and simmer until tender.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Add water and bring to a boil."
+    ]
+  },
+  {
+    "name": "Pindang Damulag",
+    "description": "Pindang Damulag is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Dessert",
+    "estimated_time": "90 minutes",
+    "servings": "5 servings",
+    "ingredients": [
+      "1/2 kg carabao meat",
+      "2 tbsp cooking oil",
+      "2 cloves garlic",
+      "1 onion, chopped",
+      "1 tbsp soy sauce",
+      "1 tsp ground pepper"
+    ],
+    "instructions": [
+      "Add the meat and cook until browned.",
+      "Lower heat and simmer until tender.",
+      "Serve hot with steamed rice.",
+      "Heat oil in a pan over medium heat."
+    ]
+  },
+  {
+    "name": "Kamaru",
+    "description": "Kamaru is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "62 minutes",
+    "servings": "5 servings",
+    "ingredients": [
+      "1/2 kg crab meat",
+      "1/2 cup green peas",
+      "Salt to taste",
+      "2 eggs",
+      "1/2 cup vinegar",
+      "1/4 cup raisins",
+      "2 cloves garlic"
+    ],
+    "instructions": [
+      "Add water and bring to a boil.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Add the meat and cook until browned.",
+      "Season with salt and pepper to taste."
+    ]
+  },
+  {
+    "name": "Betute Tugak",
+    "description": "Betute Tugak is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "66 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg pork belly",
+      "1/2 cup vinegar",
+      "1/2 cup liver spread",
+      "2 eggs",
+      "1 cup water",
+      "1/2 cup green peas",
+      "1 small carrot, minced",
+      "1 onion, chopped"
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat.",
+      "Add water and bring to a boil.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Serve hot with steamed rice."
+    ]
+  },
+  {
+    "name": "Tidtad",
+    "description": "Tidtad is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Side Dish",
+    "estimated_time": "86 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg shrimp",
+      "1/2 cup grated cheese",
+      "1/4 cup raisins",
+      "1/2 cup breadcrumbs",
+      "1/2 cup liver spread",
+      "1 onion, chopped",
+      "1 tsp ground pepper"
+    ],
+    "instructions": [
+      "Sauté garlic and onions until fragrant.",
+      "Serve hot with steamed rice.",
+      "Season with salt and pepper to taste.",
+      "Lower heat and simmer until tender.",
+      "Add water and bring to a boil.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Add the meat and cook until browned."
+    ]
+  },
+  {
+    "name": "Morcon",
+    "description": "Morcon is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "38 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1 kg ground pork",
+      "1 small carrot, minced",
+      "2 eggs",
+      "1 onion, chopped",
+      "1/2 cup green peas",
+      "2 cloves garlic",
+      "1 tsp ground pepper",
+      "2 tbsp cooking oil"
+    ],
+    "instructions": [
+      "Add the meat and cook until browned.",
+      "Season with salt and pepper to taste.",
+      "Heat oil in a pan over medium heat.",
+      "Serve hot with steamed rice.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Sauté garlic and onions until fragrant."
+    ]
+  },
+  {
+    "name": "Embutido",
+    "description": "Embutido is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "89 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1/2 kg pork belly",
+      "1 tbsp soy sauce",
+      "1 red chili (optional)",
+      "1/2 cup grated cheese",
+      "2 tbsp cooking oil",
+      "1 tsp ground pepper",
+      "1/2 cup green peas",
+      "1/4 cup raisins",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Season with salt and pepper to taste.",
+      "Lower heat and simmer until tender.",
+      "Heat oil in a pan over medium heat.",
+      "Add water and bring to a boil."
+    ]
+  },
+  {
+    "name": "Lechon Kawali",
+    "description": "Lechon Kawali is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "61 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1/2 kg chicken breast",
+      "2 cloves garlic",
+      "1/2 cup breadcrumbs",
+      "1 onion, chopped",
+      "1/2 cup vinegar",
+      "1/2 cup green peas"
+    ],
+    "instructions": [
+      "Add water and bring to a boil.",
+      "Sauté garlic and onions until fragrant.",
+      "Serve hot with steamed rice.",
+      "Season with salt and pepper to taste.",
+      "Lower heat and simmer until tender.",
+      "Heat oil in a pan over medium heat.",
+      "Add the meat and cook until browned."
+    ]
+  },
+  {
+    "name": "Kare-Kare",
+    "description": "Kare-Kare is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "43 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg chicken breast",
+      "2 eggs",
+      "1/2 cup vinegar",
+      "1 cup water",
+      "1/2 cup grated cheese",
+      "2 cloves garlic",
+      "1 small carrot, minced"
+    ],
+    "instructions": [
+      "Serve hot with steamed rice.",
+      "Add the meat and cook until browned.",
+      "Sauté garlic and onions until fragrant.",
+      "Heat oil in a pan over medium heat.",
+      "Season with salt and pepper to taste.",
+      "Add water and bring to a boil."
+    ]
+  },
+  {
+    "name": "Bopis",
+    "description": "Bopis is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "85 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg carabao meat",
+      "1 onion, chopped",
+      "1 tbsp soy sauce",
+      "2 cloves garlic",
+      "1/2 cup liver spread",
+      "1 cup water",
+      "1/2 cup grated cheese",
+      "2 eggs",
+      "1 red chili (optional)"
+    ],
+    "instructions": [
+      "Add the meat and cook until browned.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Lower heat and simmer until tender.",
+      "Add water and bring to a boil.",
+      "Sauté garlic and onions until fragrant."
+    ]
+  },
+  {
+    "name": "Dinuguan",
+    "description": "Dinuguan is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Dessert",
+    "estimated_time": "33 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1/2 kg beef sirloin",
+      "1 tsp ground pepper",
+      "Salt to taste",
+      "1 onion, chopped",
+      "1/2 cup grated cheese",
+      "2 eggs",
+      "1/2 cup breadcrumbs",
+      "1/2 cup green peas"
+    ],
+    "instructions": [
+      "Sauté garlic and onions until fragrant.",
+      "Add water and bring to a boil.",
+      "Season with salt and pepper to taste.",
+      "Serve hot with steamed rice."
+    ]
+  },
+  {
+    "name": "Paksiw na Lechon",
+    "description": "Paksiw na Lechon is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Side Dish",
+    "estimated_time": "35 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1 cup chopped liver",
+      "1/2 cup green peas",
+      "2 tbsp cooking oil",
+      "1 red chili (optional)",
+      "1/2 cup liver spread",
+      "2 cloves garlic",
+      "1/2 cup grated cheese",
+      "1 cup water",
+      "1 small carrot, minced"
+    ],
+    "instructions": [
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Season with salt and pepper to taste.",
+      "Serve hot with steamed rice.",
+      "Lower heat and simmer until tender.",
+      "Sauté garlic and onions until fragrant.",
+      "Add water and bring to a boil.",
+      "Heat oil in a pan over medium heat."
+    ]
+  },
+  {
+    "name": "Kalderetang Kambing",
+    "description": "Kalderetang Kambing is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "85 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1 kg ground pork",
+      "1 red chili (optional)",
+      "1/4 cup raisins",
+      "1 tbsp soy sauce",
+      "2 cloves garlic",
+      "1/2 cup green peas",
+      "1/2 cup liver spread"
+    ],
+    "instructions": [
+      "Add the meat and cook until browned.",
+      "Add water and bring to a boil.",
+      "Serve hot with steamed rice.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes."
+    ]
+  },
+  {
+    "name": "Chicharon Bulaklak",
+    "description": "Chicharon Bulaklak is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "71 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1/2 kg pork belly",
+      "1/2 cup green peas",
+      "1 red chili (optional)",
+      "1/2 cup breadcrumbs",
+      "1 tsp ground pepper",
+      "1/2 cup liver spread"
+    ],
+    "instructions": [
+      "Sauté garlic and onions until fragrant.",
+      "Season with salt and pepper to taste.",
+      "Add the meat and cook until browned.",
+      "Lower heat and simmer until tender."
+    ]
+  },
+  {
+    "name": "Menudo",
+    "description": "Menudo is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "33 minutes",
+    "servings": "5 servings",
+    "ingredients": [
+      "1/2 kg crab meat",
+      "1 tbsp soy sauce",
+      "1 small carrot, minced",
+      "1 cup water",
+      "1/4 cup raisins",
+      "1/2 cup grated cheese",
+      "2 cloves garlic"
+    ],
+    "instructions": [
+      "Season with salt and pepper to taste.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Heat oil in a pan over medium heat.",
+      "Add water and bring to a boil.",
+      "Serve hot with steamed rice.",
+      "Add the meat and cook until browned.",
+      "Sauté garlic and onions until fragrant."
+    ]
+  },
+  {
+    "name": "Afritada",
+    "description": "Afritada is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Side Dish",
+    "estimated_time": "77 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1/2 kg crab meat",
+      "1 onion, chopped",
+      "1 red chili (optional)",
+      "1/2 cup grated cheese",
+      "2 tbsp cooking oil",
+      "1 tbsp soy sauce",
+      "2 eggs",
+      "1 small carrot, minced",
+      "1 tsp ground pepper"
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat.",
+      "Lower heat and simmer until tender.",
+      "Add the meat and cook until browned.",
+      "Sauté garlic and onions until fragrant.",
+      "Add water and bring to a boil.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Season with salt and pepper to taste."
+    ]
+  },
+  {
+    "name": "Adobong Puti",
+    "description": "Adobong Puti is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "77 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1/2 kg beef sirloin",
+      "1/2 cup grated cheese",
+      "1/2 cup vinegar",
+      "1 tbsp soy sauce",
+      "1 tsp ground pepper",
+      "1/2 cup green peas",
+      "1 small carrot, minced",
+      "2 cloves garlic"
+    ],
+    "instructions": [
+      "Add the meat and cook until browned.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Heat oil in a pan over medium heat.",
+      "Lower heat and simmer until tender.",
+      "Serve hot with steamed rice.",
+      "Add water and bring to a boil."
+    ]
+  },
+  {
+    "name": "Bulanglang",
+    "description": "Bulanglang is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "70 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1/2 kg chicken breast",
+      "2 eggs",
+      "1/2 cup grated cheese",
+      "1 small carrot, minced",
+      "2 cloves garlic",
+      "1/4 cup raisins",
+      "1/2 cup liver spread"
+    ],
+    "instructions": [
+      "Lower heat and simmer until tender.",
+      "Add the meat and cook until browned.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Add water and bring to a boil."
+    ]
+  },
+  {
+    "name": "Gatang Kuhol",
+    "description": "Gatang Kuhol is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "56 minutes",
+    "servings": "5 servings",
+    "ingredients": [
+      "1/2 kg carabao meat",
+      "2 tbsp cooking oil",
+      "1 cup water",
+      "2 cloves garlic",
+      "2 eggs",
+      "1 onion, chopped",
+      "1/4 cup raisins",
+      "1 tsp ground pepper",
+      "1/2 cup green peas"
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat.",
+      "Season with salt and pepper to taste.",
+      "Add water and bring to a boil.",
+      "Lower heat and simmer until tender.",
+      "Serve hot with steamed rice.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Add the meat and cook until browned."
+    ]
+  },
+  {
+    "name": "Paksiw na Isda",
+    "description": "Paksiw na Isda is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Side Dish",
+    "estimated_time": "66 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1/2 kg tilapia",
+      "1 tbsp soy sauce",
+      "1 small carrot, minced",
+      "1/2 cup breadcrumbs",
+      "Salt to taste",
+      "1/2 cup vinegar",
+      "2 cloves garlic",
+      "1/2 cup green peas",
+      "1/2 cup grated cheese"
+    ],
+    "instructions": [
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Lower heat and simmer until tender.",
+      "Heat oil in a pan over medium heat.",
+      "Add water and bring to a boil.",
+      "Serve hot with steamed rice.",
+      "Sauté garlic and onions until fragrant.",
+      "Season with salt and pepper to taste."
+    ]
+  },
+  {
+    "name": "Lelang Paro",
+    "description": "Lelang Paro is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Dessert",
+    "estimated_time": "72 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1 kg ground pork",
+      "1 tbsp soy sauce",
+      "1/2 cup grated cheese",
+      "1/2 cup green peas",
+      "1/4 cup raisins",
+      "1 red chili (optional)"
+    ],
+    "instructions": [
+      "Serve hot with steamed rice.",
+      "Lower heat and simmer until tender.",
+      "Season with salt and pepper to taste.",
+      "Sauté garlic and onions until fragrant."
+    ]
+  },
+  {
+    "name": "Arroz Valenciana",
+    "description": "Arroz Valenciana is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Dessert",
+    "estimated_time": "56 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1/2 kg crab meat",
+      "1/2 cup breadcrumbs",
+      "1/2 cup liver spread",
+      "2 cloves garlic",
+      "2 tbsp cooking oil",
+      "1 onion, chopped",
+      "2 eggs",
+      "1 tbsp soy sauce"
+    ],
+    "instructions": [
+      "Add water and bring to a boil.",
+      "Season with salt and pepper to taste.",
+      "Add the meat and cook until browned.",
+      "Sauté garlic and onions until fragrant.",
+      "Lower heat and simmer until tender."
+    ]
+  },
+  {
+    "name": "Kilayin",
+    "description": "Kilayin is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "35 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1/2 kg chicken breast",
+      "1 cup water",
+      "1 red chili (optional)",
+      "Salt to taste",
+      "2 tbsp cooking oil",
+      "1/2 cup vinegar",
+      "1 tsp ground pepper",
+      "2 eggs"
+    ],
+    "instructions": [
+      "Serve hot with steamed rice.",
+      "Heat oil in a pan over medium heat.",
+      "Add water and bring to a boil.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Sauté garlic and onions until fragrant.",
+      "Lower heat and simmer until tender."
+    ]
+  },
+  {
+    "name": "Pork Asado",
+    "description": "Pork Asado is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "34 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg beef sirloin",
+      "1 tsp ground pepper",
+      "1/2 cup breadcrumbs",
+      "Salt to taste",
+      "1/2 cup vinegar",
+      "1/4 cup raisins"
+    ],
+    "instructions": [
+      "Add the meat and cook until browned.",
+      "Add water and bring to a boil.",
+      "Serve hot with steamed rice.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Sauté garlic and onions until fragrant.",
+      "Lower heat and simmer until tender."
+    ]
+  },
+  {
+    "name": "Hamonado",
+    "description": "Hamonado is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Dessert",
+    "estimated_time": "73 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1/2 kg crab meat",
+      "1 tbsp soy sauce",
+      "2 cloves garlic",
+      "2 eggs",
+      "1 tsp ground pepper",
+      "2 tbsp cooking oil",
+      "1/2 cup green peas"
+    ],
+    "instructions": [
+      "Add the meat and cook until browned.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Add water and bring to a boil.",
+      "Serve hot with steamed rice.",
+      "Season with salt and pepper to taste.",
+      "Sauté garlic and onions until fragrant.",
+      "Heat oil in a pan over medium heat."
+    ]
+  },
+  {
+    "name": "Nilagang Baka",
+    "description": "Nilagang Baka is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "53 minutes",
+    "servings": "5 servings",
+    "ingredients": [
+      "1/2 kg carabao meat",
+      "1 tsp ground pepper",
+      "1/4 cup raisins",
+      "1 onion, chopped",
+      "1 tbsp soy sauce",
+      "1/2 cup grated cheese",
+      "1/2 cup breadcrumbs",
+      "2 cloves garlic"
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat.",
+      "Add the meat and cook until browned.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Serve hot with steamed rice."
+    ]
+  },
+  {
+    "name": "Sinigang na Baboy",
+    "description": "Sinigang na Baboy is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "67 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1/2 kg chicken breast",
+      "1 tsp ground pepper",
+      "1 small carrot, minced",
+      "1/4 cup raisins",
+      "1/2 cup vinegar",
+      "1 tbsp soy sauce"
+    ],
+    "instructions": [
+      "Add water and bring to a boil.",
+      "Sauté garlic and onions until fragrant.",
+      "Serve hot with steamed rice.",
+      "Season with salt and pepper to taste.",
+      "Heat oil in a pan over medium heat.",
+      "Lower heat and simmer until tender.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes."
+    ]
+  },
+  {
+    "name": "Ginisang Monggo",
+    "description": "Ginisang Monggo is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "88 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1 cup chopped liver",
+      "2 tbsp cooking oil",
+      "2 cloves garlic",
+      "1/2 cup green peas",
+      "1/4 cup raisins",
+      "1/2 cup liver spread"
+    ],
+    "instructions": [
+      "Sauté garlic and onions until fragrant.",
+      "Serve hot with steamed rice.",
+      "Add water and bring to a boil.",
+      "Season with salt and pepper to taste.",
+      "Add the meat and cook until browned."
+    ]
+  },
+  {
+    "name": "Tokwa't Baboy",
+    "description": "Tokwa't Baboy is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "48 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1/2 kg crab meat",
+      "2 tbsp cooking oil",
+      "2 cloves garlic",
+      "1/2 cup vinegar",
+      "1/2 cup grated cheese",
+      "1/4 cup raisins",
+      "1 onion, chopped",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Add water and bring to a boil.",
+      "Add the meat and cook until browned.",
+      "Season with salt and pepper to taste.",
+      "Sauté garlic and onions until fragrant.",
+      "Lower heat and simmer until tender.",
+      "Heat oil in a pan over medium heat."
+    ]
+  },
+  {
+    "name": "Pritong Lumpia",
+    "description": "Pritong Lumpia is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Dessert",
+    "estimated_time": "34 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1 kg ground pork",
+      "1 tbsp soy sauce",
+      "2 tbsp cooking oil",
+      "Salt to taste",
+      "1 red chili (optional)",
+      "1 small carrot, minced",
+      "1/2 cup grated cheese"
+    ],
+    "instructions": [
+      "Lower heat and simmer until tender.",
+      "Sauté garlic and onions until fragrant.",
+      "Heat oil in a pan over medium heat.",
+      "Serve hot with steamed rice."
+    ]
+  },
+  {
+    "name": "Pancit Luglug",
+    "description": "Pancit Luglug is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "63 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1 kg ground pork",
+      "1/2 cup vinegar",
+      "1/2 cup grated cheese",
+      "1 onion, chopped",
+      "1 red chili (optional)",
+      "Salt to taste",
+      "1 tsp ground pepper",
+      "1/2 cup liver spread"
+    ],
+    "instructions": [
+      "Add water and bring to a boil.",
+      "Sauté garlic and onions until fragrant.",
+      "Serve hot with steamed rice.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes."
+    ]
+  },
+  {
+    "name": "Pancit Palabok",
+    "description": "Pancit Palabok is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "37 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg tilapia",
+      "2 eggs",
+      "1 tsp ground pepper",
+      "2 tbsp cooking oil",
+      "1 red chili (optional)",
+      "1/2 cup green peas",
+      "1 tbsp soy sauce",
+      "2 cloves garlic",
+      "1 small carrot, minced"
+    ],
+    "instructions": [
+      "Serve hot with steamed rice.",
+      "Lower heat and simmer until tender.",
+      "Heat oil in a pan over medium heat.",
+      "Add water and bring to a boil.",
+      "Sauté garlic and onions until fragrant.",
+      "Add the meat and cook until browned."
+    ]
+  },
+  {
+    "name": "Baked Macaroni",
+    "description": "Baked Macaroni is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Side Dish",
+    "estimated_time": "54 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1/2 kg chicken breast",
+      "Salt to taste",
+      "2 eggs",
+      "2 tbsp cooking oil",
+      "1 onion, chopped",
+      "1/4 cup raisins",
+      "1 small carrot, minced"
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat.",
+      "Sauté garlic and onions until fragrant.",
+      "Serve hot with steamed rice.",
+      "Add the meat and cook until browned.",
+      "Lower heat and simmer until tender.",
+      "Add water and bring to a boil."
+    ]
+  },
+  {
+    "name": "Ginataang Langka",
+    "description": "Ginataang Langka is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "56 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1/2 kg pork belly",
+      "1 onion, chopped",
+      "1/2 cup vinegar",
+      "2 tbsp cooking oil",
+      "1 small carrot, minced",
+      "1/4 cup raisins",
+      "1/2 cup liver spread",
+      "1 tsp ground pepper"
+    ],
+    "instructions": [
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Sauté garlic and onions until fragrant.",
+      "Add the meat and cook until browned.",
+      "Heat oil in a pan over medium heat.",
+      "Add water and bring to a boil."
+    ]
+  },
+  {
+    "name": "Ginataang Puso ng Saging",
+    "description": "Ginataang Puso ng Saging is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "82 minutes",
+    "servings": "5 servings",
+    "ingredients": [
+      "1/2 kg tilapia",
+      "1/2 cup green peas",
+      "2 eggs",
+      "1/4 cup raisins",
+      "1 onion, chopped",
+      "1 cup water",
+      "1 small carrot, minced"
+    ],
+    "instructions": [
+      "Season with salt and pepper to taste.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Heat oil in a pan over medium heat.",
+      "Add water and bring to a boil.",
+      "Add the meat and cook until browned."
+    ]
+  },
+  {
+    "name": "Laing",
+    "description": "Laing is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Dessert",
+    "estimated_time": "58 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg chicken breast",
+      "1 tsp ground pepper",
+      "1 onion, chopped",
+      "1 small carrot, minced",
+      "1/2 cup liver spread",
+      "2 eggs",
+      "1/2 cup vinegar"
+    ],
+    "instructions": [
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Lower heat and simmer until tender.",
+      "Add water and bring to a boil.",
+      "Serve hot with steamed rice.",
+      "Add the meat and cook until browned."
+    ]
+  },
+  {
+    "name": "Ukoy",
+    "description": "Ukoy is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "50 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1/2 kg shrimp",
+      "1/2 cup green peas",
+      "1/2 cup grated cheese",
+      "1 tsp ground pepper",
+      "1/2 cup breadcrumbs",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Serve hot with steamed rice.",
+      "Season with salt and pepper to taste.",
+      "Heat oil in a pan over medium heat.",
+      "Lower heat and simmer until tender.",
+      "Add water and bring to a boil.",
+      "Add the meat and cook until browned.",
+      "Sauté garlic and onions until fragrant."
+    ]
+  },
+  {
+    "name": "Tortang Talong",
+    "description": "Tortang Talong is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "36 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1/2 kg carabao meat",
+      "1/2 cup liver spread",
+      "1/2 cup grated cheese",
+      "2 tbsp cooking oil",
+      "1/2 cup breadcrumbs",
+      "1 cup water",
+      "1/2 cup vinegar",
+      "1 onion, chopped",
+      "1 tsp ground pepper"
+    ],
+    "instructions": [
+      "Add water and bring to a boil.",
+      "Heat oil in a pan over medium heat.",
+      "Season with salt and pepper to taste.",
+      "Sauté garlic and onions until fragrant.",
+      "Lower heat and simmer until tender.",
+      "Add the meat and cook until browned."
+    ]
+  },
+  {
+    "name": "Inihaw na Bangus",
+    "description": "Inihaw na Bangus is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Side Dish",
+    "estimated_time": "78 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1/2 kg tilapia",
+      "1 onion, chopped",
+      "1 red chili (optional)",
+      "1 tbsp soy sauce",
+      "1/2 cup liver spread",
+      "2 cloves garlic",
+      "Salt to taste",
+      "1 cup water"
+    ],
+    "instructions": [
+      "Add the meat and cook until browned.",
+      "Serve hot with steamed rice.",
+      "Sauté garlic and onions until fragrant.",
+      "Add water and bring to a boil.",
+      "Heat oil in a pan over medium heat.",
+      "Season with salt and pepper to taste.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes."
+    ]
+  },
+  {
+    "name": "Rellenong Bangus",
+    "description": "Rellenong Bangus is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "31 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1/2 kg crab meat",
+      "1 cup water",
+      "Salt to taste",
+      "1 onion, chopped",
+      "2 tbsp cooking oil",
+      "1 tsp ground pepper",
+      "1 tbsp soy sauce",
+      "1/2 cup liver spread"
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat.",
+      "Season with salt and pepper to taste.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Add the meat and cook until browned.",
+      "Serve hot with steamed rice.",
+      "Sauté garlic and onions until fragrant.",
+      "Add water and bring to a boil."
+    ]
+  },
+  {
+    "name": "Tinolang Manok",
+    "description": "Tinolang Manok is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "61 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1/2 kg chicken breast",
+      "2 tbsp cooking oil",
+      "1 small carrot, minced",
+      "1 tsp ground pepper",
+      "1 tbsp soy sauce",
+      "1 cup water",
+      "2 eggs"
+    ],
+    "instructions": [
+      "Serve hot with steamed rice.",
+      "Season with salt and pepper to taste.",
+      "Lower heat and simmer until tender.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Heat oil in a pan over medium heat.",
+      "Add water and bring to a boil."
+    ]
+  },
+  {
+    "name": "Chicken Inasal",
+    "description": "Chicken Inasal is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "77 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1 cup chopped liver",
+      "1/2 cup breadcrumbs",
+      "2 eggs",
+      "1 cup water",
+      "1/2 cup liver spread",
+      "1/2 cup grated cheese",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Serve hot with steamed rice.",
+      "Add water and bring to a boil.",
+      "Lower heat and simmer until tender."
+    ]
+  },
+  {
+    "name": "Pastel",
+    "description": "Pastel is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "66 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg shrimp",
+      "2 tbsp cooking oil",
+      "1/2 cup grated cheese",
+      "1 tsp ground pepper",
+      "2 cloves garlic",
+      "1/2 cup breadcrumbs"
+    ],
+    "instructions": [
+      "Season with salt and pepper to taste.",
+      "Add water and bring to a boil.",
+      "Add the meat and cook until browned.",
+      "Sauté garlic and onions until fragrant."
+    ]
+  },
+  {
+    "name": "Pininyahang Manok",
+    "description": "Pininyahang Manok is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "72 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1/2 kg pork belly",
+      "1 red chili (optional)",
+      "1 cup water",
+      "1 onion, chopped",
+      "1/2 cup breadcrumbs",
+      "2 eggs",
+      "Salt to taste",
+      "1/2 cup vinegar",
+      "1/2 cup green peas"
+    ],
+    "instructions": [
+      "Add water and bring to a boil.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Serve hot with steamed rice.",
+      "Heat oil in a pan over medium heat."
+    ]
+  },
+  {
+    "name": "Ginataang Manok",
+    "description": "Ginataang Manok is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "34 minutes",
+    "servings": "5 servings",
+    "ingredients": [
+      "1/2 kg beef sirloin",
+      "1/2 cup breadcrumbs",
+      "1/2 cup vinegar",
+      "1 cup water",
+      "2 cloves garlic",
+      "1/2 cup grated cheese",
+      "1 small carrot, minced",
+      "1 tbsp soy sauce"
+    ],
+    "instructions": [
+      "Add the meat and cook until browned.",
+      "Season with salt and pepper to taste.",
+      "Serve hot with steamed rice.",
+      "Sauté garlic and onions until fragrant.",
+      "Heat oil in a pan over medium heat.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Lower heat and simmer until tender."
+    ]
+  },
+  {
+    "name": "Leche Flan",
+    "description": "Leche Flan is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Side Dish",
+    "estimated_time": "65 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1/2 kg chicken breast",
+      "1/2 cup vinegar",
+      "1 onion, chopped",
+      "1/2 cup green peas",
+      "1 red chili (optional)",
+      "1/2 cup liver spread"
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat.",
+      "Sauté garlic and onions until fragrant.",
+      "Lower heat and simmer until tender.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes."
+    ]
+  },
+  {
+    "name": "Brazo de Mercedes",
+    "description": "Brazo de Mercedes is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Dessert",
+    "estimated_time": "30 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1/2 kg chicken breast",
+      "1/2 cup vinegar",
+      "2 cloves garlic",
+      "1 cup water",
+      "Salt to taste",
+      "1 red chili (optional)",
+      "1/2 cup liver spread"
+    ],
+    "instructions": [
+      "Add the meat and cook until browned.",
+      "Season with salt and pepper to taste.",
+      "Sauté garlic and onions until fragrant.",
+      "Lower heat and simmer until tender.",
+      "Heat oil in a pan over medium heat.",
+      "Add water and bring to a boil.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes."
+    ]
+  },
+  {
+    "name": "San Nicolas Cookies",
+    "description": "San Nicolas Cookies is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "74 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1/2 kg tilapia",
+      "1/2 cup green peas",
+      "1 small carrot, minced",
+      "1 tsp ground pepper",
+      "1 onion, chopped",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Serve hot with steamed rice.",
+      "Heat oil in a pan over medium heat.",
+      "Sauté garlic and onions until fragrant.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Add water and bring to a boil.",
+      "Add the meat and cook until browned."
+    ]
+  },
+  {
+    "name": "Turon",
+    "description": "Turon is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "89 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1 kg ground pork",
+      "1/2 cup liver spread",
+      "1 onion, chopped",
+      "1/2 cup grated cheese",
+      "1 small carrot, minced",
+      "2 cloves garlic",
+      "1 red chili (optional)",
+      "1/2 cup vinegar"
+    ],
+    "instructions": [
+      "Add water and bring to a boil.",
+      "Heat oil in a pan over medium heat.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Serve hot with steamed rice.",
+      "Add the meat and cook until browned."
+    ]
+  },
+  {
+    "name": "Bibingka",
+    "description": "Bibingka is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "89 minutes",
+    "servings": "5 servings",
+    "ingredients": [
+      "1 cup chopped liver",
+      "1/4 cup raisins",
+      "1 onion, chopped",
+      "1/2 cup liver spread",
+      "1 tbsp soy sauce",
+      "1/2 cup grated cheese",
+      "2 tbsp cooking oil",
+      "1 cup water",
+      "1/2 cup green peas"
+    ],
+    "instructions": [
+      "Sauté garlic and onions until fragrant.",
+      "Lower heat and simmer until tender.",
+      "Heat oil in a pan over medium heat.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Season with salt and pepper to taste."
+    ]
+  },
+  {
+    "name": "Puto Bumbong",
+    "description": "Puto Bumbong is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Side Dish",
+    "estimated_time": "30 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1/2 kg crab meat",
+      "1 small carrot, minced",
+      "1 tbsp soy sauce",
+      "1/2 cup vinegar",
+      "2 eggs",
+      "1/4 cup raisins",
+      "1/2 cup grated cheese",
+      "1/2 cup green peas"
+    ],
+    "instructions": [
+      "Add the meat and cook until browned.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Serve hot with steamed rice.",
+      "Add water and bring to a boil.",
+      "Lower heat and simmer until tender.",
+      "Season with salt and pepper to taste.",
+      "Sauté garlic and onions until fragrant."
+    ]
+  },
+  {
+    "name": "Kutsinta",
+    "description": "Kutsinta is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Side Dish",
+    "estimated_time": "52 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1/2 kg tilapia",
+      "2 tbsp cooking oil",
+      "1 tsp ground pepper",
+      "Salt to taste",
+      "1/2 cup grated cheese",
+      "1/4 cup raisins",
+      "1/2 cup liver spread",
+      "1 red chili (optional)"
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat.",
+      "Season with salt and pepper to taste.",
+      "Add water and bring to a boil.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Serve hot with steamed rice.",
+      "Sauté garlic and onions until fragrant.",
+      "Add the meat and cook until browned."
+    ]
+  },
+  {
+    "name": "Sapin-Sapin",
+    "description": "Sapin-Sapin is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "83 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1/2 kg crab meat",
+      "2 eggs",
+      "1/2 cup vinegar",
+      "1 tbsp soy sauce",
+      "1 onion, chopped",
+      "1/2 cup liver spread",
+      "1/2 cup green peas",
+      "2 tbsp cooking oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Add water and bring to a boil.",
+      "Serve hot with steamed rice.",
+      "Sauté garlic and onions until fragrant.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Lower heat and simmer until tender."
+    ]
+  },
+  {
+    "name": "Buko Pandan",
+    "description": "Buko Pandan is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "85 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1 cup chopped liver",
+      "1 tbsp soy sauce",
+      "1/2 cup breadcrumbs",
+      "1 tsp ground pepper",
+      "1/2 cup liver spread",
+      "1 onion, chopped",
+      "2 tbsp cooking oil",
+      "1 red chili (optional)",
+      "1 small carrot, minced"
+    ],
+    "instructions": [
+      "Season with salt and pepper to taste.",
+      "Heat oil in a pan over medium heat.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Serve hot with steamed rice.",
+      "Sauté garlic and onions until fragrant."
+    ]
+  },
+  {
+    "name": "Halo-Halo",
+    "description": "Halo-Halo is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "53 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1 cup chopped liver",
+      "1/2 cup vinegar",
+      "1 tsp ground pepper",
+      "Salt to taste",
+      "1 onion, chopped",
+      "1 red chili (optional)"
+    ],
+    "instructions": [
+      "Add water and bring to a boil.",
+      "Serve hot with steamed rice.",
+      "Sauté garlic and onions until fragrant.",
+      "Heat oil in a pan over medium heat.",
+      "Lower heat and simmer until tender.",
+      "Season with salt and pepper to taste.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes."
+    ]
+  },
+  {
+    "name": "Ube Halaya",
+    "description": "Ube Halaya is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "86 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1/2 kg shrimp",
+      "2 cloves garlic",
+      "1/2 cup green peas",
+      "1 tsp ground pepper",
+      "1/2 cup breadcrumbs",
+      "2 eggs",
+      "1 small carrot, minced",
+      "1/2 cup grated cheese",
+      "1 onion, chopped"
+    ],
+    "instructions": [
+      "Serve hot with steamed rice.",
+      "Sauté garlic and onions until fragrant.",
+      "Season with salt and pepper to taste.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Add water and bring to a boil.",
+      "Add the meat and cook until browned.",
+      "Heat oil in a pan over medium heat."
+    ]
+  },
+  {
+    "name": "Maja Blanca",
+    "description": "Maja Blanca is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "77 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1/2 kg beef sirloin",
+      "2 eggs",
+      "1 tsp ground pepper",
+      "1/2 cup liver spread",
+      "2 tbsp cooking oil",
+      "1/2 cup vinegar",
+      "1 red chili (optional)",
+      "1/2 cup breadcrumbs"
+    ],
+    "instructions": [
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Lower heat and simmer until tender.",
+      "Heat oil in a pan over medium heat.",
+      "Add the meat and cook until browned."
+    ]
+  },
+  {
+    "name": "Palitaw",
+    "description": "Palitaw is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "68 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1/2 kg carabao meat",
+      "2 tbsp cooking oil",
+      "1 cup water",
+      "1 tsp ground pepper",
+      "1/2 cup liver spread",
+      "1/2 cup vinegar",
+      "1/2 cup grated cheese"
+    ],
+    "instructions": [
+      "Season with salt and pepper to taste.",
+      "Sauté garlic and onions until fragrant.",
+      "Add the meat and cook until browned.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Lower heat and simmer until tender.",
+      "Serve hot with steamed rice.",
+      "Heat oil in a pan over medium heat."
+    ]
+  },
+  {
+    "name": "Cassava Cake",
+    "description": "Cassava Cake is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Side Dish",
+    "estimated_time": "45 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1/2 kg chicken breast",
+      "Salt to taste",
+      "1/4 cup raisins",
+      "1 small carrot, minced",
+      "1/2 cup grated cheese",
+      "2 cloves garlic",
+      "1/2 cup vinegar",
+      "1 red chili (optional)",
+      "1/2 cup green peas"
+    ],
+    "instructions": [
+      "Serve hot with steamed rice.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Season with salt and pepper to taste.",
+      "Add the meat and cook until browned.",
+      "Lower heat and simmer until tender."
+    ]
+  },
+  {
+    "name": "Pichi-Pichi",
+    "description": "Pichi-Pichi is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Dessert",
+    "estimated_time": "55 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1/2 kg crab meat",
+      "1 cup water",
+      "1 onion, chopped",
+      "1 red chili (optional)",
+      "1/2 cup liver spread",
+      "2 tbsp cooking oil",
+      "1/2 cup grated cheese"
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat.",
+      "Lower heat and simmer until tender.",
+      "Add water and bring to a boil.",
+      "Add the meat and cook until browned.",
+      "Season with salt and pepper to taste.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Serve hot with steamed rice."
+    ]
+  },
+  {
+    "name": "Puto",
+    "description": "Puto is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "47 minutes",
+    "servings": "5 servings",
+    "ingredients": [
+      "1/2 kg shrimp",
+      "1/2 cup grated cheese",
+      "1 tsp ground pepper",
+      "1/4 cup raisins",
+      "2 tbsp cooking oil",
+      "1 tbsp soy sauce",
+      "2 eggs"
+    ],
+    "instructions": [
+      "Sauté garlic and onions until fragrant.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Serve hot with steamed rice.",
+      "Add the meat and cook until browned."
+    ]
+  },
+  {
+    "name": "Suman",
+    "description": "Suman is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "48 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg shrimp",
+      "1 tbsp soy sauce",
+      "1 small carrot, minced",
+      "1 onion, chopped",
+      "1/2 cup liver spread",
+      "2 tbsp cooking oil"
+    ],
+    "instructions": [
+      "Sauté garlic and onions until fragrant.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Add the meat and cook until browned.",
+      "Add water and bring to a boil.",
+      "Season with salt and pepper to taste.",
+      "Lower heat and simmer until tender.",
+      "Serve hot with steamed rice."
+    ]
+  },
+  {
+    "name": "Nilupak",
+    "description": "Nilupak is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "33 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1/2 kg crab meat",
+      "1 tbsp soy sauce",
+      "2 tbsp cooking oil",
+      "1/2 cup vinegar",
+      "2 eggs",
+      "1/2 cup green peas",
+      "1/2 cup grated cheese",
+      "1 red chili (optional)"
+    ],
+    "instructions": [
+      "Add water and bring to a boil.",
+      "Season with salt and pepper to taste.",
+      "Serve hot with steamed rice.",
+      "Add the meat and cook until browned.",
+      "Lower heat and simmer until tender.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes."
+    ]
+  },
+  {
+    "name": "Ginataang Bilo-Bilo",
+    "description": "Ginataang Bilo-Bilo is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Dessert",
+    "estimated_time": "66 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1/2 kg beef sirloin",
+      "Salt to taste",
+      "1/2 cup vinegar",
+      "1 red chili (optional)",
+      "1 onion, chopped",
+      "1 small carrot, minced",
+      "1 tbsp soy sauce"
+    ],
+    "instructions": [
+      "Lower heat and simmer until tender.",
+      "Sauté garlic and onions until fragrant.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Heat oil in a pan over medium heat."
+    ]
+  },
+  {
+    "name": "Banana Cue",
+    "description": "Banana Cue is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Dessert",
+    "estimated_time": "55 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1 cup chopped liver",
+      "Salt to taste",
+      "1/2 cup liver spread",
+      "1 onion, chopped",
+      "1 tbsp soy sauce",
+      "1 cup water"
+    ],
+    "instructions": [
+      "Season with salt and pepper to taste.",
+      "Add the meat and cook until browned.",
+      "Serve hot with steamed rice.",
+      "Lower heat and simmer until tender.",
+      "Add water and bring to a boil."
+    ]
+  },
+  {
+    "name": "Camote Cue",
+    "description": "Camote Cue is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "40 minutes",
+    "servings": "5 servings",
+    "ingredients": [
+      "1/2 kg pork belly",
+      "1 red chili (optional)",
+      "1 small carrot, minced",
+      "1/2 cup breadcrumbs",
+      "1/2 cup green peas",
+      "1/2 cup grated cheese",
+      "1/4 cup raisins",
+      "1/2 cup liver spread"
+    ],
+    "instructions": [
+      "Lower heat and simmer until tender.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Season with salt and pepper to taste.",
+      "Sauté garlic and onions until fragrant.",
+      "Heat oil in a pan over medium heat.",
+      "Add the meat and cook until browned.",
+      "Serve hot with steamed rice."
+    ]
+  },
+  {
+    "name": "Biko",
+    "description": "Biko is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "32 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1/2 kg pork belly",
+      "1/4 cup raisins",
+      "1 small carrot, minced",
+      "1 onion, chopped",
+      "1 tsp ground pepper",
+      "1/2 cup green peas"
+    ],
+    "instructions": [
+      "Season with salt and pepper to taste.",
+      "Lower heat and simmer until tender.",
+      "Add the meat and cook until browned.",
+      "Heat oil in a pan over medium heat."
+    ]
+  },
+  {
+    "name": "Arroz Caldo",
+    "description": "Arroz Caldo is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "61 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1 cup chopped liver",
+      "2 tbsp cooking oil",
+      "1 red chili (optional)",
+      "1 cup water",
+      "1/2 cup breadcrumbs",
+      "1/2 cup green peas",
+      "1 tbsp soy sauce"
+    ],
+    "instructions": [
+      "Sauté garlic and onions until fragrant.",
+      "Serve hot with steamed rice.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Add water and bring to a boil.",
+      "Season with salt and pepper to taste.",
+      "Heat oil in a pan over medium heat.",
+      "Add the meat and cook until browned."
+    ]
+  },
+  {
+    "name": "Champorado",
+    "description": "Champorado is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "47 minutes",
+    "servings": "5 servings",
+    "ingredients": [
+      "1/2 kg carabao meat",
+      "1/2 cup vinegar",
+      "1 small carrot, minced",
+      "1/2 cup liver spread",
+      "1/2 cup grated cheese",
+      "1 red chili (optional)",
+      "1 cup water"
+    ],
+    "instructions": [
+      "Lower heat and simmer until tender.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Sauté garlic and onions until fragrant.",
+      "Add the meat and cook until browned.",
+      "Heat oil in a pan over medium heat."
+    ]
+  },
+  {
+    "name": "Taho",
+    "description": "Taho is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Side Dish",
+    "estimated_time": "75 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg carabao meat",
+      "2 tbsp cooking oil",
+      "1 red chili (optional)",
+      "2 cloves garlic",
+      "2 eggs",
+      "1 tbsp soy sauce",
+      "1/2 cup breadcrumbs",
+      "1 cup water"
+    ],
+    "instructions": [
+      "Sauté garlic and onions until fragrant.",
+      "Serve hot with steamed rice.",
+      "Season with salt and pepper to taste.",
+      "Add the meat and cook until browned.",
+      "Heat oil in a pan over medium heat."
+    ]
+  },
+  {
+    "name": "Pandesal",
+    "description": "Pandesal is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Dessert",
+    "estimated_time": "71 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg crab meat",
+      "1 tsp ground pepper",
+      "2 cloves garlic",
+      "1 tbsp soy sauce",
+      "1/2 cup vinegar",
+      "1/2 cup green peas",
+      "1/2 cup liver spread"
+    ],
+    "instructions": [
+      "Season with salt and pepper to taste.",
+      "Heat oil in a pan over medium heat.",
+      "Sauté garlic and onions until fragrant.",
+      "Lower heat and simmer until tender.",
+      "Serve hot with steamed rice."
+    ]
+  },
+  {
+    "name": "Ensaymada",
+    "description": "Ensaymada is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Side Dish",
+    "estimated_time": "86 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1/2 kg pork belly",
+      "1 tbsp soy sauce",
+      "1/4 cup raisins",
+      "2 eggs",
+      "2 tbsp cooking oil",
+      "2 cloves garlic"
+    ],
+    "instructions": [
+      "Sauté garlic and onions until fragrant.",
+      "Serve hot with steamed rice.",
+      "Lower heat and simmer until tender.",
+      "Add water and bring to a boil.",
+      "Add the meat and cook until browned.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes."
+    ]
+  },
+  {
+    "name": "Monay",
+    "description": "Monay is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Side Dish",
+    "estimated_time": "55 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1 kg ground pork",
+      "1 cup water",
+      "1/2 cup vinegar",
+      "2 tbsp cooking oil",
+      "1 tsp ground pepper",
+      "1/2 cup green peas",
+      "1/2 cup grated cheese"
+    ],
+    "instructions": [
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Add water and bring to a boil.",
+      "Heat oil in a pan over medium heat.",
+      "Serve hot with steamed rice.",
+      "Lower heat and simmer until tender."
+    ]
+  },
+  {
+    "name": "Spanish Bread",
+    "description": "Spanish Bread is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "76 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1/2 kg tilapia",
+      "1/4 cup raisins",
+      "1/2 cup breadcrumbs",
+      "2 tbsp cooking oil",
+      "1/2 cup grated cheese",
+      "1/2 cup green peas",
+      "1 cup water",
+      "1 red chili (optional)"
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat.",
+      "Lower heat and simmer until tender.",
+      "Add the meat and cook until browned.",
+      "Serve hot with steamed rice."
+    ]
+  },
+  {
+    "name": "Pan de Coco",
+    "description": "Pan de Coco is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "69 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1 kg ground pork",
+      "2 eggs",
+      "1 tbsp soy sauce",
+      "1 small carrot, minced",
+      "1/2 cup liver spread",
+      "1/2 cup vinegar",
+      "Salt to taste",
+      "2 cloves garlic",
+      "1/4 cup raisins"
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Add water and bring to a boil.",
+      "Add the meat and cook until browned.",
+      "Lower heat and simmer until tender.",
+      "Serve hot with steamed rice."
+    ]
+  },
+  {
+    "name": "Kababayan Bread",
+    "description": "Kababayan Bread is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Dessert",
+    "estimated_time": "44 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg beef sirloin",
+      "1/2 cup liver spread",
+      "1 cup water",
+      "1 onion, chopped",
+      "1/2 cup vinegar",
+      "1 tsp ground pepper"
+    ],
+    "instructions": [
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Heat oil in a pan over medium heat.",
+      "Sauté garlic and onions until fragrant.",
+      "Season with salt and pepper to taste."
+    ]
+  },
+  {
+    "name": "Egg Pie",
+    "description": "Egg Pie is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "43 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1/2 kg crab meat",
+      "1 tsp ground pepper",
+      "1 small carrot, minced",
+      "1/4 cup raisins",
+      "1 onion, chopped",
+      "1 cup water",
+      "1 red chili (optional)",
+      "1/2 cup green peas",
+      "1/2 cup vinegar"
+    ],
+    "instructions": [
+      "Lower heat and simmer until tender.",
+      "Serve hot with steamed rice.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Season with salt and pepper to taste."
+    ]
+  },
+  {
+    "name": "Yema Cake",
+    "description": "Yema Cake is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "52 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg carabao meat",
+      "2 eggs",
+      "Salt to taste",
+      "1 tsp ground pepper",
+      "1/2 cup green peas",
+      "2 tbsp cooking oil",
+      "1/2 cup breadcrumbs",
+      "1 onion, chopped"
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat.",
+      "Sauté garlic and onions until fragrant.",
+      "Add water and bring to a boil.",
+      "Lower heat and simmer until tender."
+    ]
+  },
+  {
+    "name": "Ube Cake",
+    "description": "Ube Cake is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "44 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg carabao meat",
+      "2 eggs",
+      "1 small carrot, minced",
+      "1/2 cup vinegar",
+      "1 red chili (optional)",
+      "1/2 cup grated cheese",
+      "1/2 cup liver spread",
+      "1 tsp ground pepper",
+      "2 cloves garlic"
+    ],
+    "instructions": [
+      "Add the meat and cook until browned.",
+      "Serve hot with steamed rice.",
+      "Sauté garlic and onions until fragrant.",
+      "Heat oil in a pan over medium heat.",
+      "Add water and bring to a boil.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes."
+    ]
+  },
+  {
+    "name": "Mango Float",
+    "description": "Mango Float is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Side Dish",
+    "estimated_time": "74 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1/2 kg chicken breast",
+      "2 cloves garlic",
+      "1/4 cup raisins",
+      "1 small carrot, minced",
+      "1 tsp ground pepper",
+      "1/2 cup grated cheese",
+      "1 red chili (optional)",
+      "1/2 cup liver spread",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Season with salt and pepper to taste.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Sauté garlic and onions until fragrant.",
+      "Serve hot with steamed rice.",
+      "Add the meat and cook until browned.",
+      "Add water and bring to a boil.",
+      "Lower heat and simmer until tender."
+    ]
+  },
+  {
+    "name": "Creamy Buko Salad",
+    "description": "Creamy Buko Salad is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "70 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg pork belly",
+      "1 onion, chopped",
+      "1/2 cup breadcrumbs",
+      "1 red chili (optional)",
+      "2 tbsp cooking oil",
+      "1/2 cup grated cheese",
+      "1/4 cup raisins",
+      "2 eggs",
+      "2 cloves garlic"
+    ],
+    "instructions": [
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Heat oil in a pan over medium heat.",
+      "Add the meat and cook until browned.",
+      "Add water and bring to a boil.",
+      "Season with salt and pepper to taste.",
+      "Lower heat and simmer until tender."
+    ]
+  },
+  {
+    "name": "Buko Pie",
+    "description": "Buko Pie is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Side Dish",
+    "estimated_time": "76 minutes",
+    "servings": "5 servings",
+    "ingredients": [
+      "1/2 kg shrimp",
+      "Salt to taste",
+      "1/2 cup green peas",
+      "1 small carrot, minced",
+      "1 tsp ground pepper",
+      "1/2 cup breadcrumbs",
+      "1/2 cup vinegar",
+      "1 cup water"
+    ],
+    "instructions": [
+      "Season with salt and pepper to taste.",
+      "Add water and bring to a boil.",
+      "Serve hot with steamed rice.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Add the meat and cook until browned.",
+      "Lower heat and simmer until tender."
+    ]
+  },
+  {
+    "name": "Pineapple Upside Down Cake",
+    "description": "Pineapple Upside Down Cake is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "39 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1/2 kg shrimp",
+      "1/2 cup grated cheese",
+      "1 onion, chopped",
+      "1/2 cup liver spread",
+      "1 red chili (optional)",
+      "1 cup water",
+      "2 tbsp cooking oil",
+      "1 small carrot, minced",
+      "2 cloves garlic"
+    ],
+    "instructions": [
+      "Season with salt and pepper to taste.",
+      "Lower heat and simmer until tender.",
+      "Add water and bring to a boil.",
+      "Heat oil in a pan over medium heat."
+    ]
+  },
+  {
+    "name": "Cassava Bibingka",
+    "description": "Cassava Bibingka is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Dessert",
+    "estimated_time": "32 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1 kg ground pork",
+      "2 cloves garlic",
+      "2 eggs",
+      "1/2 cup grated cheese",
+      "1/2 cup breadcrumbs",
+      "1/4 cup raisins",
+      "1/2 cup green peas",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Add the meat and cook until browned.",
+      "Season with salt and pepper to taste.",
+      "Serve hot with steamed rice.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Heat oil in a pan over medium heat."
+    ]
+  },
+  {
+    "name": "Maruya",
+    "description": "Maruya is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Side Dish",
+    "estimated_time": "59 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg tilapia",
+      "2 eggs",
+      "1 tsp ground pepper",
+      "1 onion, chopped",
+      "1/2 cup liver spread",
+      "1 cup water",
+      "1/4 cup raisins"
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat.",
+      "Lower heat and simmer until tender.",
+      "Add water and bring to a boil.",
+      "Season with salt and pepper to taste.",
+      "Serve hot with steamed rice.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes."
+    ]
+  },
+  {
+    "name": "Sinukmani",
+    "description": "Sinukmani is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "83 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1/2 kg shrimp",
+      "Salt to taste",
+      "1/2 cup breadcrumbs",
+      "1/2 cup vinegar",
+      "2 eggs",
+      "2 cloves garlic"
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat.",
+      "Add the meat and cook until browned.",
+      "Season with salt and pepper to taste.",
+      "Add water and bring to a boil."
+    ]
+  },
+  {
+    "name": "Kalamay",
+    "description": "Kalamay is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "72 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1/2 kg pork belly",
+      "1 tbsp soy sauce",
+      "1/2 cup breadcrumbs",
+      "1/2 cup vinegar",
+      "Salt to taste",
+      "2 eggs",
+      "1 small carrot, minced",
+      "1/2 cup liver spread"
+    ],
+    "instructions": [
+      "Add water and bring to a boil.",
+      "Lower heat and simmer until tender.",
+      "Add the meat and cook until browned.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes."
+    ]
+  },
+  {
+    "name": "Ginataang Mais",
+    "description": "Ginataang Mais is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "48 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg crab meat",
+      "1/2 cup grated cheese",
+      "1 cup water",
+      "2 tbsp cooking oil",
+      "1/4 cup raisins",
+      "2 cloves garlic",
+      "1/2 cup breadcrumbs",
+      "Salt to taste",
+      "1 red chili (optional)"
+    ],
+    "instructions": [
+      "Season with salt and pepper to taste.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Heat oil in a pan over medium heat.",
+      "Lower heat and simmer until tender."
+    ]
+  },
+  {
+    "name": "Peanut Brittle",
+    "description": "Peanut Brittle is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "43 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1/2 kg tilapia",
+      "Salt to taste",
+      "2 eggs",
+      "1 tsp ground pepper",
+      "1/2 cup green peas",
+      "1/2 cup grated cheese",
+      "1/2 cup breadcrumbs",
+      "1 onion, chopped",
+      "1/4 cup raisins"
+    ],
+    "instructions": [
+      "Sauté garlic and onions until fragrant.",
+      "Heat oil in a pan over medium heat.",
+      "Season with salt and pepper to taste.",
+      "Add water and bring to a boil.",
+      "Serve hot with steamed rice.",
+      "Lower heat and simmer until tender."
+    ]
+  },
+  {
+    "name": "Polvoron",
+    "description": "Polvoron is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Breakfast",
+    "estimated_time": "52 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1/2 kg tilapia",
+      "1 red chili (optional)",
+      "1/2 cup liver spread",
+      "2 eggs",
+      "1/2 cup grated cheese",
+      "2 cloves garlic",
+      "1/4 cup raisins"
+    ],
+    "instructions": [
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Serve hot with steamed rice.",
+      "Add water and bring to a boil.",
+      "Add the meat and cook until browned.",
+      "Sauté garlic and onions until fragrant."
+    ]
+  },
+  {
+    "name": "Pastillas",
+    "description": "Pastillas is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "80 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1/2 kg tilapia",
+      "1 red chili (optional)",
+      "2 tbsp cooking oil",
+      "2 eggs",
+      "1/2 cup breadcrumbs",
+      "Salt to taste",
+      "1 onion, chopped",
+      "1 cup water"
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat.",
+      "Serve hot with steamed rice.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Sauté garlic and onions until fragrant.",
+      "Season with salt and pepper to taste.",
+      "Add water and bring to a boil.",
+      "Add the meat and cook until browned."
+    ]
+  },
+  {
+    "name": "Tibok-Tibok",
+    "description": "Tibok-Tibok is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "53 minutes",
+    "servings": "6 servings",
+    "ingredients": [
+      "1/2 kg shrimp",
+      "1/2 cup breadcrumbs",
+      "1/4 cup raisins",
+      "2 tbsp cooking oil",
+      "1/2 cup grated cheese",
+      "1 red chili (optional)",
+      "1 tsp ground pepper"
+    ],
+    "instructions": [
+      "Lower heat and simmer until tender.",
+      "Heat oil in a pan over medium heat.",
+      "Add water and bring to a boil.",
+      "Sauté garlic and onions until fragrant.",
+      "Serve hot with steamed rice.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Add the meat and cook until browned."
+    ]
+  },
+  {
+    "name": "Panutsa",
+    "description": "Panutsa is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "64 minutes",
+    "servings": "5 servings",
+    "ingredients": [
+      "1/2 kg pork belly",
+      "2 cloves garlic",
+      "1 cup water",
+      "1 tbsp soy sauce",
+      "1 small carrot, minced",
+      "Salt to taste",
+      "1/2 cup green peas"
+    ],
+    "instructions": [
+      "Add the meat and cook until browned.",
+      "Serve hot with steamed rice.",
+      "Heat oil in a pan over medium heat.",
+      "Lower heat and simmer until tender."
+    ]
+  },
+  {
+    "name": "Kropek",
+    "description": "Kropek is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Side Dish",
+    "estimated_time": "58 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1/2 kg carabao meat",
+      "1/2 cup liver spread",
+      "1/2 cup grated cheese",
+      "1 small carrot, minced",
+      "Salt to taste",
+      "2 cloves garlic",
+      "1/2 cup vinegar",
+      "2 tbsp cooking oil",
+      "1 tsp ground pepper"
+    ],
+    "instructions": [
+      "Serve hot with steamed rice.",
+      "Add water and bring to a boil.",
+      "Sauté garlic and onions until fragrant.",
+      "Add the meat and cook until browned.",
+      "Heat oil in a pan over medium heat.",
+      "Lower heat and simmer until tender."
+    ]
+  },
+  {
+    "name": "Lumpiang Ubod",
+    "description": "Lumpiang Ubod is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Main Dish",
+    "estimated_time": "32 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1/2 kg tilapia",
+      "1 onion, chopped",
+      "1/2 cup breadcrumbs",
+      "1 tbsp soy sauce",
+      "1 cup water",
+      "1 tsp ground pepper",
+      "2 eggs",
+      "1/2 cup vinegar",
+      "1/2 cup grated cheese"
+    ],
+    "instructions": [
+      "Add water and bring to a boil.",
+      "Season with salt and pepper to taste.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Add the meat and cook until browned.",
+      "Heat oil in a pan over medium heat.",
+      "Sauté garlic and onions until fragrant."
+    ]
+  },
+  {
+    "name": "Kilawin",
+    "description": "Kilawin is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Dessert",
+    "estimated_time": "68 minutes",
+    "servings": "3 servings",
+    "ingredients": [
+      "1/2 kg shrimp",
+      "2 tbsp cooking oil",
+      "1/2 cup vinegar",
+      "1 onion, chopped",
+      "1/4 cup raisins",
+      "1/2 cup green peas"
+    ],
+    "instructions": [
+      "Add water and bring to a boil.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Lower heat and simmer until tender.",
+      "Sauté garlic and onions until fragrant.",
+      "Season with salt and pepper to taste."
+    ]
+  },
+  {
+    "name": "Inasal na Pusit",
+    "description": "Inasal na Pusit is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Snack",
+    "estimated_time": "90 minutes",
+    "servings": "4 servings",
+    "ingredients": [
+      "1/2 kg crab meat",
+      "1/2 cup grated cheese",
+      "1 tbsp soy sauce",
+      "1 small carrot, minced",
+      "1/2 cup liver spread",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Sauté garlic and onions until fragrant.",
+      "Lower heat and simmer until tender.",
+      "Pour in soy sauce and vinegar, let simmer for 10 minutes.",
+      "Serve hot with steamed rice.",
+      "Add water and bring to a boil."
+    ]
+  },
+  {
+    "name": "Pritong Tilapia",
+    "description": "Pritong Tilapia is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "category": "Dessert",
+    "estimated_time": "90 minutes",
+    "servings": "2 servings",
+    "ingredients": [
+      "1/2 kg crab meat",
+      "2 cloves garlic",
+      "2 eggs",
+      "1 cup water",
+      "2 tbsp cooking oil",
+      "1 tsp ground pepper",
+      "1/2 cup vinegar"
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat.",
+      "Sauté garlic and onions until fragrant.",
+      "Add water and bring to a boil.",
+      "Lower heat and simmer until tender.",
+      "Add the meat and cook until browned."
+    ]
+  }
+]
