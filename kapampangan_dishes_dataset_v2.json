@@ -1509,8 +1509,8 @@
   },
   {
     "name": "Pastillas",
-    "description": "Pastillas is a classic Kapampangan main dish celebrated for its hearty flavors.",
-    "category": "Main Dish",
+    "description": "Pastillas de leche, or simply pastillas, are a type of Filipino milk candy. They are soft, smooth, and creamy, with a velvety texture, and are typically made with carabao's milk and sugar.",
+    "category": "Dessert",
     "estimated_time": "80 minutes",
     "servings": "2 servings",
     "ingredients": [
@@ -1566,8 +1566,8 @@
   },
   {
     "name": "Kilawin",
-    "description": "Kilawin is a beloved Kapampangan dessert known for its distinct sweetness.",
-    "category": "Dessert",
+    "description": "Kilawin is a Filipino dish, often described as a type of ceviche, where raw or lightly cooked ingredients (like fish, seafood, or even meat) are marinated in vinegar and other seasonings.",
+    "category": "Main Dish",
     "estimated_time": "68 minutes",
     "servings": "3 servings",
     "ingredients": [
@@ -1589,7 +1589,7 @@
   {
     "name": "Inasal na Pusit",
     "description": "Inasal na Pusit is a popular dish in Kapampangan cuisine.",
-    "category": "Snack",
+    "category": "Main Dish",
     "estimated_time": "90 minutes",
     "servings": "4 servings",
     "ingredients": [
@@ -1614,8 +1614,8 @@
   },
   {
     "name": "Pritong Tilapia",
-    "description": "Pritong Tilapia is a beloved Kapampangan dessert known for its distinct sweetness.",
-    "category": "Dessert",
+    "description": "Pritong Tilapia is a Filipino dish of fried tilapia, a type of fish often raised in aquaculture. It's a popular and versatile meal, known for its crispy exterior and tender interior. ",
+    "category": "Main Dish",
     "estimated_time": "90 minutes",
     "servings": "2 servings",
     "ingredients": [
