@@ -1,13 +1,13 @@
 [
   {
     "name": "Sisig",
-    "description": "Sisig is a sizzling Kapampangan snack made from chopped pork face and liver with tangy calamansi and a kick of chili.",
+    "description": "Sisig is a sizzling Kapampangan snack made from chopped pork face and liver, seasoned with tangy calamansi and a kick of chili.",
     "category": "Snack",
     "estimated_time": "55 minutes",
     "servings": "3 servings",
     "ingredients": [
       "1/2 kg pork face and liver, finely chopped",
-      "1 small red onion, diced",
+      "1 small red onion, finely chopped",
       "2 green chilies, chopped (optional)",
       "2 tbsp calamansi juice",
       "1 tbsp soy sauce",
@@ -15,10 +15,10 @@
       "1 tbsp mayonnaise (optional)"
     ],
     "instructions": [
-      "Boil the pork until tender, then grill or fry until crispy.",
-      "Chop the meat finely and combine with diced onions and chilies.",
+      "Boil the pork until tender, then grill or fry until slightly crispy.",
+      "Finely chop the meat and combine with red onion and chilies.",
       "Season with calamansi juice, soy sauce, salt, and pepper.",
-      "Mix in a little mayonnaise if desired, and serve hot on a sizzling plate."
+      "Mix lightly with mayonnaise if desired and serve hot on a sizzling plate."
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Authentic_Kapampangan_Sisig.jpg"
   },
@@ -38,14 +38,14 @@
     ],
     "instructions": [
       "Marinate the pork belly in brown sugar, soy sauce, garlic, and annatto powder for at least 4 hours.",
-      "Fry the pork in a pan until caramelized and cooked through.",
-      "Slice and serve with garlic fried rice and a fried egg."
+      "Fry the marinated pork in a pan until well caramelized and cooked through.",
+      "Slice and serve with garlic fried rice and a sunny-side-up egg."
     ],
     "image": "https://kusinasecrets.com/wp-content/uploads/2024/12/u3317447599_httpss.mj_.runH-nEOSgTSp0_Homemade_caramelized_por_bfcb5c16-8b45-477e-9324-f86847257048_3.webp"
   },
   {
     "name": "Bringhe",
-    "description": "Bringhe is a Kapampangan-style paella with glutinous rice, coconut milk, and shrimp, infused with the warm color of turmeric.",
+    "description": "Bringhe is a Kapampangan-style paella featuring glutinous rice cooked in coconut milk with shrimp and a warm hint of turmeric.",
     "category": "Main Dish",
     "estimated_time": "49 minutes",
     "servings": "3 servings",
@@ -55,21 +55,21 @@
       "1 cup coconut milk",
       "1/2 tsp turmeric powder",
       "1 small red bell pepper, diced",
-      "Salt and pepper to taste",
-      "2 cloves garlic, minced"
+      "2 cloves garlic, minced",
+      "Salt and pepper to taste"
     ],
     "instructions": [
-      "Sauté garlic in a little oil until fragrant.",
-      "Add shrimp and cook briefly until they turn pink.",
-      "Mix in the glutinous rice, coconut milk, turmeric, and bell pepper.",
-      "Season with salt and pepper and simmer gently until the rice is cooked and creamy.",
-      "Serve garnished with additional bell pepper if desired."
+      "Sauté garlic in a bit of oil until aromatic.",
+      "Add shrimp and quickly sauté until just pink.",
+      "Stir in glutinous rice, coconut milk, turmeric, and diced bell pepper.",
+      "Season with salt and pepper and simmer gently until the rice is tender and creamy.",
+      "Serve garnished with extra bell pepper if desired."
     ],
     "image": "https://images.yummy.ph/yummy/uploads/2022/12/bringhe-640.jpg"
   },
   {
     "name": "Pindang Damulag",
-    "description": "Pindang Damulag is a savory dish featuring tender carabao meat simmered in vinegar and spices—a unique taste from Kapampangan culinary heritage.",
+    "description": "Pindang Damulag is a savory Kapampangan dish featuring tender carabao meat simmered in vinegar with aromatic spices.",
     "category": "Main Dish",
     "estimated_time": "90 minutes",
     "servings": "5 servings",
@@ -83,15 +83,15 @@
     ],
     "instructions": [
       "Boil the carabao meat until tender.",
-      "In a separate pan, sauté garlic and onion until soft.",
-      "Add the meat along with vinegar and bay leaf, and simmer for 10 minutes.",
-      "Adjust seasoning with salt and pepper and serve hot with steamed rice."
+      "Sauté garlic and onion in a pan until soft.",
+      "Add the boiled meat, vinegar, and bay leaf; simmer for 10 minutes.",
+      "Adjust seasonings and serve hot with steamed rice."
     ],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhkz1Q1ooD5AomOHVM9f8LQuoMWchWLe6yU_BsCkqxsg9aKzVyQY8fZb5gzx2BW0QBnBqlrojizOAm8J-_ZhxDrtg6Oio10iJIQs9oKRG6hYozsR4i6TAdr47RELrJtFuLCGYliC3H__YC/s640/pindang.jpg"
   },
   {
     "name": "Kamaru",
-    "description": "Kamaru is a traditional Kapampangan breakfast dish combining crab meat with raisins and eggs for a unique sweet and savory flavor.",
+    "description": "Kamaru is a traditional Kapampangan breakfast dish that blends the savory flavor of crab with a hint of sweetness from raisins.",
     "category": "Breakfast",
     "estimated_time": "62 minutes",
     "servings": "5 servings",
@@ -99,22 +99,22 @@
       "1/2 kg crab meat",
       "1/2 cup green peas",
       "1/4 cup raisins",
-      "2 eggs, beaten",
+      "2 eggs, lightly beaten",
       "1/2 cup vinegar",
-      "Salt and pepper to taste",
-      "2 cloves garlic, minced"
+      "2 cloves garlic, minced",
+      "Salt and pepper to taste"
     ],
     "instructions": [
-      "Mix the crab meat with green peas, raisins, and beaten eggs.",
-      "Add vinegar and season with salt and pepper.",
-      "Sauté garlic briefly and fold into the mixture.",
-      "Steam or lightly fry until set, and serve warm."
+      "Combine crab meat with green peas, raisins, beaten eggs, and garlic.",
+      "Mix in vinegar and season with salt and pepper.",
+      "Lightly steam or pan-fry the mixture until set.",
+      "Serve warm as a unique breakfast dish."
     ],
     "image": "https://getaway.ph/storage/2021/05/Kamaru-Photo-by-Jhazrel-Mananghaya.jpg"
   },
   {
     "name": "Betute Tugak",
-    "description": "Betute Tugak is a Kapampangan snack featuring tender pork belly layered with vegetables and a savory egg-liver mix.",
+    "description": "Betute Tugak is a Kapampangan snack featuring delicate pork belly layered with vegetables and bound with an egg-liver mixture.",
     "category": "Snack",
     "estimated_time": "66 minutes",
     "servings": "6 servings",
@@ -129,22 +129,21 @@
       "Salt and pepper to taste"
     ],
     "instructions": [
-      "Marinate pork belly with vinegar, salt, and pepper.",
-      "Mix liver spread with beaten eggs and water to create a binder.",
-      "Layer the pork slices with carrots and onions, then drizzle the egg mixture on top.",
-      "Steam the entire mixture until the pork is tender.",
-      "Serve hot as a savory snack."
+      "Marinate the pork slices in vinegar with salt and pepper.",
+      "Mix liver spread with beaten eggs and water to form a binder.",
+      "Layer the pork with carrots and onions, then pour the egg mixture over it.",
+      "Steam until the pork is tender, then slice and serve hot."
     ],
     "image": "https://kapampanganku.com/v3/wp-content/uploads/2019/08/Betute.jpg"
   },
   {
     "name": "Tidtad",
-    "description": "Tidtad is a savory Kapampangan side dish that brings together shrimp, cheese, and a hint of sweetness from raisins.",
+    "description": "Tidtad is a savory Kapampangan side dish that combines shrimp, cheese, and a touch of sweetness from raisins.",
     "category": "Side Dish",
     "estimated_time": "86 minutes",
     "servings": "6 servings",
     "ingredients": [
-      "1/2 kg shrimp, cleaned and deveined",
+      "1/2 kg shrimp, deveined",
       "1/2 cup grated cheese",
       "1/4 cup raisins",
       "1/2 cup breadcrumbs",
@@ -154,43 +153,42 @@
       "Salt to taste"
     ],
     "instructions": [
-      "Sauté chopped onions in a little oil until translucent.",
-      "Add the shrimp and cook until just done.",
-      "Stir in liver spread, raisins, and season with salt and pepper.",
-      "Mix in grated cheese and breadcrumbs, then simmer for a few minutes.",
-      "Serve as a flavorful side dish."
+      "Sauté onions in oil until translucent.",
+      "Add shrimp and cook until just done.",
+      "Stir in liver spread, raisins, cheese, and breadcrumbs.",
+      "Season with salt and pepper, and simmer for a few minutes.",
+      "Serve hot as a flavorful side dish."
     ],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuxcxpkaaabsQJXwny4FU4AbcTkMrcLqKG3iSU4hCQhX2J8l1Py06WEY5_H_Fshj_VUO-WLpTcHHWW8AHwVnc4bZoXkb_91YkuRDZBJ36wrPgAD8zj3vxiJKFgGqf1fmbYXqtwmpDtah3f/w1200-h630-p-k-no-nu/20170921_212915a.jpg"
   },
   {
     "name": "Morcon",
-    "description": "Morcon is a festive Kapampangan meat roll filled with a savory mix of pork, vegetables, and raisins.",
+    "description": "Morcon is a festive Kapampangan meat roll filled with a well-seasoned mixture of pork, vegetables, and raisins.",
     "category": "Main Dish",
     "estimated_time": "38 minutes",
     "servings": "2 servings",
     "ingredients": [
       "1 kg ground pork",
       "1 small carrot, finely minced",
-      "2 eggs",
       "1 onion, finely chopped",
-      "1/2 cup green peas",
       "2 cloves garlic, minced",
-      "1 tsp ground pepper",
-      "2 tbsp cooking oil",
-      "Salt to taste",
-      "1/4 cup raisins"
+      "1/2 cup green peas",
+      "1/4 cup raisins",
+      "2 eggs",
+      "Salt and pepper to taste",
+      "2 tbsp cooking oil"
     ],
     "instructions": [
-      "Mix ground pork with minced carrot, chopped onion, garlic, eggs, raisins, green peas, salt, and pepper.",
+      "Mix ground pork with minced carrot, onion, garlic, raisins, green peas, eggs, salt, and pepper.",
       "Shape the mixture into a log and wrap tightly in foil.",
       "Steam the log until cooked through, then slice into rounds.",
-      "Pan-fry the slices briefly to brown the exterior, and serve hot."
+      "Pan-fry the slices briefly until the exterior is browned and crisp, and serve hot."
     ],
     "image": "https://pinoybites.com/wp-content/uploads/2020/12/morcon4.jpg"
   },
   {
     "name": "Embutido",
-    "description": "Embutido is a classic Kapampangan meatloaf, combining pork belly, vegetables, raisins, and cheese for a delightful savory treat.",
+    "description": "Embutido is a classic Kapampangan meatloaf made with pork belly, vegetables, raisins, and cheese for a savory treat.",
     "category": "Main Dish",
     "estimated_time": "89 minutes",
     "servings": "4 servings",
@@ -198,23 +196,23 @@
       "1/2 kg pork belly, minced",
       "1/2 cup grated cheese",
       "1/4 cup raisins",
-      "1 egg, lightly beaten",
+      "1 egg, beaten",
       "1 carrot, finely diced",
       "1 onion, finely chopped",
       "1 tbsp soy sauce",
       "Salt and pepper to taste"
     ],
     "instructions": [
-      "Mix all ingredients thoroughly.",
-      "Shape the mixture into a log and wrap with foil.",
-      "Steam the log for about 45 minutes until set.",
-      "Slice the embutido and pan-fry lightly for a crispy exterior before serving."
+      "Thoroughly mix all the ingredients.",
+      "Shape the mixture into a log and wrap tightly in foil.",
+      "Steam for 45 minutes until firm.",
+      "Slice and lightly pan-fry for a crispy exterior, then serve."
     ],
     "image": "https://www.maggi.ph/sites/default/files/srh_recipes/e09b0c1d4d7fc4e04c88d347817b5c35.jpg"
   },
   {
     "name": "Lechon Kawali",
-    "description": "Lechon Kawali is a popular Kapampangan dish featuring crispy-fried pork belly served with a tangy dipping sauce.",
+    "description": "Lechon Kawali is a celebrated Kapampangan dish featuring crispy, deep-fried pork belly served with a tangy dipping sauce.",
     "category": "Main Dish",
     "estimated_time": "61 minutes",
     "servings": "3 servings",
@@ -223,19 +221,19 @@
       "Water for boiling",
       "Salt and pepper to taste",
       "2 cloves garlic, crushed",
-      "Cooking oil for deep frying"
+      "Oil for deep frying"
     ],
     "instructions": [
       "Boil the pork belly in salted water with garlic until tender.",
-      "Allow the meat to cool and then pat dry.",
-      "Deep-fry the pork belly until the skin is crispy and golden.",
-      "Cut into bite-sized pieces and serve with a dipping sauce of vinegar and garlic."
+      "Allow the meat to cool, then pat dry thoroughly.",
+      "Deep-fry the pork belly until the skin becomes crispy and golden.",
+      "Cut into bite-sized pieces and serve with a vinegar and garlic dipping sauce."
     ],
     "image": "https://static01.nyt.com/images/2023/11/28/multimedia/ND-Lechon-Kawali-bflv/ND-Lechon-Kawali-bflv-mediumSquareAt3X.jpg"
   },
   {
     "name": "Kare-Kare",
-    "description": "Kare-Kare is a rich and savory stew in Kapampangan cuisine made with oxtail, peanut sauce, and fresh vegetables.",
+    "description": "Kare-Kare is a rich and savory stew from Kapampangan cuisine, featuring tender oxtail in a peanut sauce with fresh vegetables.",
     "category": "Main Dish",
     "estimated_time": "43 minutes",
     "servings": "6 servings",
@@ -250,10 +248,10 @@
     ],
     "instructions": [
       "Boil the oxtail or tripe until tender.",
-      "Dissolve peanut butter and annatto water into the broth, stirring well.",
-      "Add eggplant and bok choy, and simmer for a few more minutes.",
-      "Season with salt and add ground roasted rice for thickness if desired.",
-      "Serve hot with shrimp paste on the side."
+      "Mix peanut butter and annatto water into the broth, stirring well.",
+      "Add eggplant and bok choy; simmer for a few additional minutes.",
+      "Season with salt and add ground roasted rice if a thicker sauce is desired.",
+      "Serve hot with a side of shrimp paste."
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Mac_MG_5939.jpg"
   },
@@ -274,15 +272,15 @@
     ],
     "instructions": [
       "Sauté garlic and onions until soft.",
-      "Add the chopped offal and cook until well browned.",
-      "Stir in vinegar, chilies, salt, and pepper, and let simmer for 15 minutes.",
+      "Add chopped offal and cook until well browned.",
+      "Stir in vinegar, chilies, salt, and black pepper; let simmer for 15 minutes.",
       "Serve hot with steamed rice."
     ],
     "image": "https://www.kawalingpinoy.com/wp-content/uploads/2018/04/kapampangan-bopis-1-500x500.jpg"
   },
   {
     "name": "Dinuguan",
-    "description": "Dinuguan is a traditional Filipino pork blood stew with a rich, savory, and tangy flavor, popular in Kapampangan cuisine.",
+    "description": "Dinuguan is a traditional Filipino pork blood stew with a rich, tangy flavor—an integral dish in Kapampangan cuisine.",
     "category": "Main Dish",
     "estimated_time": "33 minutes",
     "servings": "4 servings",
@@ -297,16 +295,16 @@
     ],
     "instructions": [
       "Sauté garlic and onion until fragrant.",
-      "Add pork and offal, and cook until lightly browned.",
-      "Pour in pork blood and vinegar, stirring continuously to avoid curdling.",
-      "Simmer until the sauce thickens and the flavors meld.",
-      "Season with salt and pepper, then serve hot with rice."
+      "Add pork and offal, cooking until lightly browned.",
+      "Slowly pour in pork blood and vinegar while stirring to prevent curdling.",
+      "Simmer until the sauce thickens and flavors meld.",
+      "Season with salt and pepper, then serve with steamed rice."
     ],
     "image": "https://panlasangpinoy.com/wp-content/uploads/2018/12/How-to-Cook-Dinuguan.jpg"
   },
   {
     "name": "Paksiw na Lechon",
-    "description": "Paksiw na Lechon is a savory Filipino dish where roasted lechon is simmered in vinegar with garlic and spices, offering a tangy twist on the classic roast.",
+    "description": "Paksiw na Lechon is a savory dish where roasted lechon is simmered in a tangy vinegar sauce with garlic and spices.",
     "category": "Main Dish",
     "estimated_time": "35 minutes",
     "servings": "2 servings",
@@ -319,15 +317,15 @@
       "Salt and pepper to taste"
     ],
     "instructions": [
-      "In a pot, combine vinegar, garlic, onion, and bay leaf; bring to a simmer.",
-      "Add lechon pieces and let simmer for 15 minutes to absorb the flavors.",
-      "Adjust seasoning with salt and pepper, and serve hot with steamed rice."
+      "Combine vinegar, garlic, onion, and bay leaf in a pot; bring to a simmer.",
+      "Add lechon pieces and simmer for 15 minutes so they absorb the tangy flavors.",
+      "Adjust seasoning with salt and pepper, then serve with steamed rice."
     ],
     "image": "https://www.foxyfolksy.com/wp-content/uploads/2023/01/lechon-paksiw-1200t.jpg"
   },
   {
     "name": "Kalderetang Kambing",
-    "description": "Kalderetang Kambing is a hearty goat stew in Kapampangan cuisine, simmered with vegetables in a rich tomato sauce.",
+    "description": "Kalderetang Kambing is a hearty goat stew from Kapampangan cuisine, simmered with vegetables in a rich tomato sauce.",
     "category": "Main Dish",
     "estimated_time": "85 minutes",
     "servings": "6 servings",
@@ -343,36 +341,36 @@
       "Salt and pepper to taste"
     ],
     "instructions": [
-      "Sauté garlic and onions in oil until soft.",
-      "Add goat meat and brown on all sides.",
-      "Pour in tomato sauce and enough water to cover the meat.",
+      "Sauté garlic and onion in oil until soft.",
+      "Brown goat meat on all sides.",
+      "Pour in tomato sauce and add sufficient water to cover the meat.",
       "Add potatoes, carrots, and bell pepper; simmer until the meat is tender.",
-      "Season with salt and pepper, and serve hot with rice."
+      "Season with salt and pepper, then serve hot with rice."
     ],
     "image": "https://kitchenomics.com/media/catalog/product/K/a/Kalderetang-Kambing_1.jpg"
   },
   {
     "name": "Chicharon Bulaklak",
-    "description": "Chicharon Bulaklak is a crispy and savory Kapampangan snack made from deep-fried pork mesentery.",
+    "description": "Chicharon Bulaklak is a crispy Kapampangan snack made from deep-fried pork mesentery, enjoyed for its crunchy texture and savory flavor.",
     "category": "Snack",
     "estimated_time": "71 minutes",
     "servings": "2 servings",
     "ingredients": [
       "1/2 kg pork mesentery (bulaklak)",
       "Salt and pepper to taste",
-      "Oil for frying"
+      "Oil for deep frying"
     ],
     "instructions": [
       "Clean and prepare the pork mesentery thoroughly.",
       "Season with salt and pepper.",
       "Deep-fry in hot oil until crispy and golden brown.",
-      "Drain on paper towels and serve with vinegar-based dipping sauce."
+      "Drain on paper towels and serve with a vinegar-based dipping sauce."
     ],
     "image": "https://images.yummy.ph/yummy/uploads/2023/02/ChicharonBulaklak-640.jpg"
   },
   {
     "name": "Menudo",
-    "description": "Menudo is a classic Filipino stew in Kapampangan style, featuring tender pork with vegetables simmered in a savory tomato sauce.",
+    "description": "Menudo is a classic Filipino stew in Kapampangan style featuring tender pork with vegetables simmered in a savory tomato sauce.",
     "category": "Main Dish",
     "estimated_time": "33 minutes",
     "servings": "5 servings",
@@ -388,16 +386,16 @@
     ],
     "instructions": [
       "Sauté garlic and onion until translucent.",
-      "Add pork cubes and brown well.",
-      "Mix in tomato sauce, potatoes, carrots, and bell pepper.",
-      "Simmer until vegetables are tender and the meat is cooked.",
-      "Season with salt and pepper, then serve hot with rice."
+      "Brown the pork cubes thoroughly.",
+      "Add tomato sauce along with potatoes, carrots, and bell pepper.",
+      "Simmer until vegetables are tender and meat is cooked through.",
+      "Season with salt and pepper, and serve hot with rice."
     ],
     "image": "https://www.kawalingpinoy.com/wp-content/uploads/2024/12/Filipino-menudo.jpg"
   },
   {
     "name": "Afritada",
-    "description": "Afritada is a comforting chicken stew from Kapampangan cuisine, simmered in tomato sauce with vegetables.",
+    "description": "Afritada is a comforting chicken stew from Kapampangan cuisine, simmered in tomato sauce with hearty vegetables.",
     "category": "Main Dish",
     "estimated_time": "77 minutes",
     "servings": "3 servings",
@@ -413,17 +411,17 @@
       "Salt and pepper to taste"
     ],
     "instructions": [
-      "Sauté garlic and onions in oil until soft.",
-      "Add chicken pieces and brown them lightly.",
-      "Stir in tomato sauce, potatoes, and carrots, then simmer until the chicken is tender.",
-      "Add bell peppers in the last 5 minutes and adjust seasoning.",
-      "Serve hot with steamed rice."
+      "Sauté garlic and onion until soft in oil.",
+      "Add chicken pieces and brown lightly.",
+      "Stir in tomato sauce, potatoes, and carrots; simmer until the chicken is tender.",
+      "Add bell peppers in the last 5 minutes of cooking.",
+      "Season with salt and pepper and serve hot with steamed rice."
     ],
     "image": "https://www.eatfigsnotpigs.com/wp-content/uploads/2022/06/IMG_1213.jpg"
   },
   {
     "name": "Adobong Puti",
-    "description": "Adobong Puti is a lighter, tangier version of Filipino adobo that highlights vinegar and garlic without the soy sauce.",
+    "description": "Adobong Puti is a tangy version of Filipino adobo that highlights the sourness of vinegar and the aroma of garlic.",
     "category": "Main Dish",
     "estimated_time": "77 minutes",
     "servings": "4 servings",
@@ -432,26 +430,26 @@
       "1/2 cup vinegar",
       "4 cloves garlic, minced",
       "2 bay leaves",
-      "Salt and pepper to taste",
+      "Salt and freshly ground black pepper to taste",
       "2 tbsp cooking oil"
     ],
     "instructions": [
-      "Sauté garlic in oil until fragrant.",
-      "Add chicken and lightly brown on all sides.",
+      "Sauté garlic in oil until golden.",
+      "Add chicken pieces and brown on all sides.",
       "Pour in vinegar and add bay leaves.",
-      "Cover and simmer until the chicken is tender.",
-      "Adjust seasonings and serve hot with steamed rice."
+      "Cover and simmer until the chicken is tender and flavors meld.",
+      "Adjust seasoning and serve hot with steamed rice."
     ],
     "image": "https://panlasangpinoy.com/wp-content/uploads/2020/03/chicken-adobong-puti-1.jpg"
   },
   {
     "name": "Bulanglang",
-    "description": "Bulanglang is a unique Kapampangan dish where tender chicken is combined with eggs, raisins, and cheese for a hearty flavor.",
+    "description": "Bulanglang is a unique Kapampangan dish combining tender chicken with eggs, raisins, and a hint of cheese for a rich flavor.",
     "category": "Main Dish",
     "estimated_time": "70 minutes",
     "servings": "3 servings",
     "ingredients": [
-      "1/2 kg chicken breast, sliced thinly",
+      "1/2 kg chicken breast, thinly sliced",
       "2 eggs, beaten",
       "1/2 cup grated cheese",
       "1 small carrot, julienned",
@@ -460,16 +458,16 @@
       "Salt and pepper to taste"
     ],
     "instructions": [
-      "Season chicken slices with salt and pepper and lightly fry.",
-      "Mix in beaten eggs, garlic, carrots, and raisins.",
-      "Cook on low heat until the eggs are set and the flavors meld.",
-      "Stir in grated cheese just before serving, and serve hot."
+      "Season chicken slices with salt and pepper and lightly sauté until just cooked.",
+      "Pour in beaten eggs and stir in garlic, carrots, and raisins.",
+      "Cook over low heat until the egg mixture is set and slightly creamy.",
+      "Stir in grated cheese just before turning off the heat, then serve immediately."
     ],
     "image": "https://assets.unileversolutions.com/recipes-v2/110689.jpg"
   },
   {
     "name": "Gatang Kuhol",
-    "description": "Gatang Kuhol is a robust Kapampangan stew featuring carabao meat simmered with vegetables and eggs for a hearty meal.",
+    "description": "Gatang Kuhol is a robust Kapampangan stew featuring carabao meat simmered with vegetables and eggs in a savory broth.",
     "category": "Main Dish",
     "estimated_time": "56 minutes",
     "servings": "5 servings",
@@ -486,18 +484,17 @@
       "Salt to taste"
     ],
     "instructions": [
-      "Heat oil in a pan and sauté garlic and onions.",
-      "Add carabao meat and brown well.",
+      "Sauté garlic and onions in oil until soft.",
+      "Add diced carabao meat and brown on all sides.",
       "Pour in water and bring to a boil.",
       "Stir in beaten eggs, raisins, green peas, salt, and pepper.",
-      "Simmer until the meat is tender and the mixture is slightly thickened.",
-      "Serve hot with steamed rice."
+      "Simmer until the meat is tender and the sauce thickens slightly, then serve hot with rice."
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/09383jfCabalen_restaurants_food_products_buffets_in_Bulacan_Philippinesfvf_27.jpg/1200px-09383jfCabalen_restaurants_food_products_buffets_in_Bulacan_Philippinesfvf_27.jpg"
   },
   {
     "name": "Paksiw na Isda",
-    "description": "Paksiw na Isda is a tangy and savory fish dish where tilapia is cooked in vinegar and aromatics, a Kapampangan favorite.",
+    "description": "Paksiw na Isda is a tangy and savory fish dish where tilapia is gently simmered in a mixture of vinegar and aromatics.",
     "category": "Main Dish",
     "estimated_time": "66 minutes",
     "servings": "4 servings",
@@ -511,16 +508,16 @@
       "Salt and pepper to taste"
     ],
     "instructions": [
-      "Arrange tilapia in a pan with tomatoes and onions.",
+      "Place tilapia in a pot with sliced tomato and onion.",
       "Pour in water and vinegar, then add garlic, salt, and pepper.",
-      "Bring to a simmer and cook until the fish is tender and infused with flavors.",
-      "Serve hot with rice."
+      "Bring to a simmer and cook until the fish is tender and infused with the sour flavor.",
+      "Serve hot with steamed rice."
     ],
     "image": "https://images.yummy.ph/yummy/uploads/2023/03/PaksiwNaIsda-640.jpg"
   },
   {
     "name": "Arroz Valenciana",
-    "description": "Arroz Valenciana is a creamy rice dish enriched with crab meat and coconut milk—a sumptuous main dish from Kapampangan cuisine.",
+    "description": "Arroz Valenciana is a creamy Kapampangan rice dish enriched with crab meat and coconut milk, offering a unique blend of flavors.",
     "category": "Main Dish",
     "estimated_time": "56 minutes",
     "servings": "2 servings",
@@ -536,10 +533,10 @@
     ],
     "instructions": [
       "Sauté garlic and onion in oil until soft.",
-      "Add crab meat and cook briefly.",
-      "Stir in glutinous rice and coconut milk; bring to a simmer.",
-      "Cook until the rice is soft and creamy.",
-      "Mix in breadcrumbs, adjust seasoning, and serve hot."
+      "Add crab meat and stir briefly.",
+      "Mix in glutinous rice and coconut milk; bring to a gentle simmer.",
+      "Cook until the rice is tender and creamy.",
+      "Stir in breadcrumbs, adjust seasoning, and serve hot."
     ],
     "image": "https://www.kawalingpinoy.com/wp-content/uploads/2019/12/filipino-arroz-valenciana.jpg"
   },
@@ -555,21 +552,21 @@
       "1 red chili, sliced (optional)",
       "2 tbsp cooking oil",
       "1/2 cup vinegar",
-      "Salt and pepper to taste",
-      "2 cloves garlic, minced"
+      "2 cloves garlic, minced",
+      "Salt and pepper to taste"
     ],
     "instructions": [
-      "Heat oil in a pan and sauté garlic until aromatic.",
-      "Add chicken pieces and fry until lightly browned.",
-      "Pour in water and vinegar, add red chili if using.",
+      "Heat oil in a pan and sauté garlic until fragrant.",
+      "Add diced chicken and cook until lightly browned.",
+      "Pour in water and vinegar; add red chili if desired.",
       "Simmer until the chicken is tender and flavors meld.",
-      "Season with salt and pepper, and serve with rice."
+      "Season with salt and pepper, then serve hot with rice."
     ],
     "image": "https://www.kawalingpinoy.com/wp-content/uploads/2015/07/kapampangan-kilayin-1.jpg"
   },
   {
     "name": "Pork Asado",
-    "description": "Pork Asado is a sweet and savory Kapampangan dish featuring marinated pork sirloin, perfectly caramelized and tender.",
+    "description": "Pork Asado is a sweet and savory Kapampangan dish featuring tender pork sirloin marinated in a caramelized brown sugar mixture.",
     "category": "Main Dish",
     "estimated_time": "34 minutes",
     "servings": "6 servings",
@@ -583,15 +580,15 @@
     ],
     "instructions": [
       "Marinate pork cubes in brown sugar, soy sauce, and garlic for 3–4 hours.",
-      "Heat a pan and sear the pork until caramelized.",
-      "Add water and simmer until tender.",
-      "Adjust seasoning as needed and serve with garlic fried rice."
+      "Sear the pork in a hot pan until caramelized.",
+      "Add water and simmer until the meat is tender.",
+      "Adjust seasoning and serve hot with garlic fried rice."
     ],
     "image": "https://www.foxyfolksy.com/wp-content/uploads/2020/12/pork-asado-siopao-filling.jpg"
   },
   {
     "name": "Nilagang Baka",
-    "description": "Nilagang Baka is a comforting Kapampangan beef stew simmered with vegetables, offering a warm and hearty flavor.",
+    "description": "Nilagang Baka is a comforting beef stew in Kapampangan cuisine, simmered with vegetables for a hearty meal.",
     "category": "Main Dish",
     "estimated_time": "53 minutes",
     "servings": "5 servings",
@@ -605,15 +602,15 @@
       "Water to cover"
     ],
     "instructions": [
-      "Boil beef shank with onions and garlic until tender.",
-      "Add potatoes and cabbage and simmer until cooked.",
-      "Season with salt and pepper, and serve hot with a side of rice."
+      "Boil the beef shank with onions and garlic until tender.",
+      "Add potatoes and cabbage; simmer until vegetables are cooked.",
+      "Season with salt and pepper, then serve hot with rice."
     ],
     "image": "https://panlasangpinoy.com/wp-content/uploads/2017/11/Nilagang-Baka-ala-Bulalo-1-500x485.jpg"
   },
   {
     "name": "Sinigang na Baboy",
-    "description": "Sinigang na Baboy is a tangy and refreshing pork sour soup, a staple in Kapampangan homes.",
+    "description": "Sinigang na Baboy is a tangy pork sour soup—a beloved Kapampangan dish known for its refreshing, sour broth.",
     "category": "Main Dish",
     "estimated_time": "67 minutes",
     "servings": "2 servings",
@@ -628,16 +625,15 @@
       "Water to cover"
     ],
     "instructions": [
-      "Boil pork belly with tomatoes and onions until tender.",
-      "Add tamarind base and radishes, and simmer for a few minutes.",
-      "Add kangkong and adjust salt.",
-      "Serve hot with steamed rice."
+      "Boil the pork belly with tomato and onion until tender.",
+      "Add tamarind base and radishes and simmer for a few minutes.",
+      "Stir in kangkong and adjust salt before serving with rice."
     ],
     "image": "https://iankewks.com/wp-content/uploads/2024/10/IMG_8605-500x375.jpg"
   },
   {
     "name": "Ginisang Monggo",
-    "description": "Ginisang Monggo is a hearty mung bean stew often enjoyed for breakfast, featuring savory aromatics and rich flavors.",
+    "description": "Ginisang Monggo is a hearty mung bean stew enjoyed for breakfast in Kapampangan households, rich in aromatics and flavor.",
     "category": "Breakfast",
     "estimated_time": "88 minutes",
     "servings": "4 servings",
@@ -647,40 +643,40 @@
       "3 cloves garlic, minced",
       "1 tomato, chopped",
       "Salt and pepper to taste",
-      "Water or broth as needed"
+      "Water or chicken broth as needed"
     ],
     "instructions": [
       "Drain and boil the mung beans until soft.",
-      "In a pan, sauté garlic, onion, and tomato until tender.",
-      "Mix in the boiled mung beans and simmer for 10 minutes.",
-      "Season with salt and pepper, then serve with rice."
+      "In a separate pan, sauté garlic, onion, and tomato until tender.",
+      "Combine the boiled mung beans with the sautéed aromatics and simmer for 10 minutes.",
+      "Season with salt and pepper and serve hot with rice."
     ],
     "image": "https://panlasangpinoy.com/wp-content/uploads/2021/07/Ginisang-Munggo.jpg"
   },
   {
     "name": "Tokwa't Baboy",
-    "description": "Tokwa't Baboy is a classic Filipino dish combining tender pork with crispy tofu, dressed in a tangy garlic-vinegar sauce.",
+    "description": "Tokwa't Baboy is a classic Filipino dish combining tender pork with crispy tofu in a tangy garlic-vinegar dressing.",
     "category": "Main Dish",
     "estimated_time": "48 minutes",
     "servings": "4 servings",
     "ingredients": [
       "1/2 kg pork belly, boiled and sliced",
-      "200g firm tofu, cubed and fried",
+      "200g firm tofu, cubed and fried until golden",
       "2 cloves garlic, minced",
       "1/4 cup vinegar",
       "Salt and pepper to taste",
       "Chopped onions for garnish"
     ],
     "instructions": [
-      "Combine boiled pork belly and fried tofu in a bowl.",
-      "Mix in garlic and vinegar, and season with salt and pepper.",
-      "Top with chopped onions and serve as an appetizer or side dish."
+      "Combine boiled pork belly and fried tofu in a serving bowl.",
+      "Mix in minced garlic and vinegar, and season with salt and pepper.",
+      "Garnish with chopped onions and serve as an appetizer or side dish."
     ],
     "image": "https://www.kawalingpinoy.com/wp-content/uploads/2014/05/tokwa-baboy-2.jpg"
   },
   {
     "name": "Pritong Lumpia",
-    "description": "Pritong Lumpia is a crispy Filipino spring roll filled with a savory mixture of pork and vegetables—a popular snack in Kapampangan cuisine.",
+    "description": "Pritong Lumpia is a crispy Filipino spring roll filled with a savory pork and vegetable mixture, a popular Kapampangan snack.",
     "category": "Snack",
     "estimated_time": "34 minutes",
     "servings": "4 servings",
@@ -695,38 +691,38 @@
       "Oil for deep frying"
     ],
     "instructions": [
-      "Mix ground pork with carrots, cabbage, garlic, onion, salt, and pepper.",
-      "Place a spoonful of the mixture on a lumpia wrapper and roll tightly.",
+      "Mix ground pork with carrots, cabbage, garlic, and onion; season with salt and pepper.",
+      "Place a spoonful of the filling on each lumpia wrapper and roll tightly.",
       "Deep-fry the lumpia until golden and crispy.",
-      "Drain on paper towels and serve with a dipping sauce."
+      "Drain on paper towels and serve with a sweet-sour dipping sauce."
     ],
     "image": "https://images.yummy.ph/yummy/uploads/2023/03/lumpiangtoguerecipe-closeup.jpg"
   },
   {
     "name": "Pancit Luglug",
-    "description": "Pancit Luglug is a flavorful noodle dish in Kapampangan style, combining tender rice noodles with savory broth and a generous topping of cheese.",
+    "description": "Pancit Luglug is a flavorful Kapampangan noodle dish served with a rich pork broth and a generous cheese topping.",
     "category": "Main Dish",
     "estimated_time": "63 minutes",
     "servings": "2 servings",
     "ingredients": [
       "1 kg rice noodles (bihon)",
-      "1/2 cup grated cheese",
       "1/2 cup pork broth",
+      "1/2 cup grated cheese",
       "1 onion, chopped",
       "1 red chili, sliced (optional)",
       "Salt to taste"
     ],
     "instructions": [
       "Boil the rice noodles until tender, then drain.",
-      "Warm the pork broth and mix with the noodles.",
-      "Top with grated cheese, sautéed onions, and sliced chili.",
-      "Season with salt and serve hot."
+      "Warm the pork broth and toss with the noodles.",
+      "Top with grated cheese, sautéed onions, and sliced red chili.",
+      "Season with salt and serve immediately."
     ],
     "image": "https://www.foxyfolksy.com/wp-content/uploads/2019/09/pancit-luglug-640.jpg"
   },
   {
     "name": "Pancit Palabok",
-    "description": "Pancit Palabok is a festive Kapampangan noodle dish topped with seafood, chicharon, and a rich shrimp broth.",
+    "description": "Pancit Palabok is a festive Kapampangan noodle dish topped with shrimp broth, chicharon, boiled eggs, and crispy garlic.",
     "category": "Main Dish",
     "estimated_time": "37 minutes",
     "servings": "6 servings",
@@ -734,28 +730,28 @@
       "1/2 kg tilapia, deboned and flaked",
       "1 package rice noodles",
       "1 cup shrimp broth",
-      "1/2 cup grated chicharon",
+      "1/2 cup crushed chicharon",
       "2 boiled eggs, sliced",
-      "1/4 cup garlic, fried until crisp",
+      "1/4 cup crispy garlic",
       "Salt and pepper to taste"
     ],
     "instructions": [
-      "Boil the rice noodles until cooked, then set aside.",
+      "Boil the rice noodles until al dente, then arrange on a serving plate.",
       "Warm the shrimp broth and mix in the flaked tilapia.",
-      "Arrange the noodles on a plate and pour the broth mixture over them.",
-      "Top with grated chicharon, boiled eggs, and crispy garlic.",
-      "Season with salt and pepper and serve."
+      "Pour the broth mixture over the noodles.",
+      "Top with crushed chicharon, boiled eggs, and crispy garlic.",
+      "Season with salt and pepper and serve immediately."
     ],
     "image": "https://kitchenconfidante.com/wp-content/uploads/2021/01/Pancit-Palabok-kitchenconfidante.com-2868-FEATURED-IMAGE.jpg"
   },
   {
     "name": "Ginataang Langka",
-    "description": "Ginataang Langka is a hearty Kapampangan dish made with tender pork belly and unripe jackfruit in a creamy coconut milk sauce.",
+    "description": "Ginataang Langka is a hearty Kapampangan dish featuring pork belly and unripe jackfruit simmered in creamy coconut milk.",
     "category": "Main Dish",
     "estimated_time": "56 minutes",
     "servings": "2 servings",
     "ingredients": [
-      "1/2 kg pork belly, cut into cubes",
+      "1/2 kg pork belly, cubed",
       "1 small unripe jackfruit (langka), cut into strips",
       "1 cup coconut milk",
       "1 onion, chopped",
@@ -763,17 +759,17 @@
       "Salt and pepper to taste"
     ],
     "instructions": [
-      "Sauté garlic and onion in oil until aromatic.",
+      "Sauté garlic and onion until fragrant.",
       "Add pork belly and cook until slightly browned.",
-      "Mix in jackfruit and pour in coconut milk.",
-      "Simmer until pork is tender and the flavors meld.",
+      "Stir in jackfruit and pour in coconut milk.",
+      "Simmer until the pork is tender and the flavors meld.",
       "Season with salt and pepper and serve hot with rice."
     ],
     "image": "https://cinnamonsnail.com/wp-content/uploads/2024/07/Ginataang-Langka-12.jpg"
   },
   {
     "name": "Ginataang Puso ng Saging",
-    "description": "Ginataang Puso ng Saging is a unique Kapampangan dish where tilapia is simmered with banana hearts in a rich, creamy coconut milk sauce.",
+    "description": "Ginataang Puso ng Saging is a unique Kapampangan dish where tilapia is gently simmered with banana hearts in a creamy coconut milk sauce.",
     "category": "Main Dish",
     "estimated_time": "82 minutes",
     "servings": "5 servings",
@@ -786,17 +782,17 @@
       "Salt and pepper to taste"
     ],
     "instructions": [
-      "Sauté garlic and onion in a little oil.",
+      "Sauté garlic and onion until softened.",
       "Add tilapia and cook briefly.",
       "Mix in banana hearts and coconut milk.",
-      "Simmer until the flavors meld and the sauce thickens slightly.",
+      "Simmer until the sauce thickens slightly.",
       "Season with salt and pepper and serve hot."
     ],
     "image": "https://images.yummy.ph/yummy/uploads/2016/03/ginataang-puso-saging-640-1.jpg"
   },
   {
     "name": "Laing",
-    "description": "Laing is a classic Kapampangan dish featuring dried taro leaves simmered in rich coconut milk with a hint of shrimp paste, balancing spicy and savory flavors.",
+    "description": "Laing is a classic Kapampangan dish made from dried taro leaves cooked in coconut milk with a hint of shrimp paste, balancing spicy and savory flavors.",
     "category": "Main Dish",
     "estimated_time": "58 minutes",
     "servings": "6 servings",
@@ -811,18 +807,18 @@
       "Salt to taste"
     ],
     "instructions": [
-      "Rinse taro leaves thoroughly.",
-      "Sauté garlic, onion, and red chilies in a pot until fragrant.",
-      "Add taro leaves and stir-fry briefly.",
-      "Pour in coconut milk and simmer until the leaves are tender.",
-      "Stir in coconut cream and bagoong, adjust salt, and simmer for another 10 minutes.",
+      "Rinse the taro leaves thoroughly.",
+      "Sauté garlic, onion, and red chilies until fragrant.",
+      "Add the taro leaves and quickly stir-fry.",
+      "Pour in coconut milk and simmer until the leaves soften.",
+      "Stir in coconut cream and bagoong; adjust salt and simmer for an additional 10 minutes.",
       "Serve hot with steamed rice."
     ],
     "image": "https://kusinasecrets.com/wp-content/uploads/2024/11/u3317447599_httpss.mj_.runrzJY5AdW6LQ_top_down_view_of_Authent_136cae8e-1d96-4b4b-8417-693c972281cd_2.jpg"
   },
   {
     "name": "Ukoy",
-    "description": "Ukoy is a crispy Filipino fritter made with shrimp and vegetables, a popular snack in Kapampangan cuisine.",
+    "description": "Ukoy is a crispy Filipino fritter made with shrimp and vegetables, a well-loved snack in Kapampangan cuisine.",
     "category": "Snack",
     "estimated_time": "50 minutes",
     "servings": "4 servings",
@@ -836,17 +832,16 @@
       "Oil for frying"
     ],
     "instructions": [
-      "Mix shrimp, bean sprouts, grated squash, and egg with rice flour until combined.",
-      "Season with salt and pepper.",
-      "Heat oil in a pan and drop spoonfuls of the mixture to form patties.",
-      "Fry until crispy and golden on both sides.",
+      "Combine shrimp, bean sprouts, grated squash, beaten egg, and rice flour in a bowl.",
+      "Season the mixture with salt and pepper.",
+      "Drop spoonfuls into hot oil and fry until the patties are crispy and golden.",
       "Drain on paper towels and serve with a vinegar dipping sauce."
     ],
     "image": "https://www.foxyfolksy.com/wp-content/uploads/2016/11/ukoy-recipe-640.jpg"
   },
   {
     "name": "Tortang Talong",
-    "description": "Tortang Talong is a popular Filipino breakfast dish where grilled eggplant is dipped in egg and fried to perfection.",
+    "description": "Tortang Talong is a popular Filipino breakfast dish where grilled eggplant is dipped in egg and fried until crispy.",
     "category": "Breakfast",
     "estimated_time": "36 minutes",
     "servings": "3 servings",
@@ -858,10 +853,9 @@
     ],
     "instructions": [
       "Grill the eggplants until the skin is charred and the flesh softens.",
-      "Peel the skin off carefully and flatten the eggplants.",
-      "Dip each eggplant in beaten eggs, season with salt and pepper.",
-      "Pan-fry until golden brown on both sides.",
-      "Serve hot with a side of tomatoes or rice."
+      "Peel off the skin carefully and flatten the eggplants.",
+      "Dip each eggplant in beaten eggs, seasoning with salt and pepper.",
+      "Pan-fry until golden brown on both sides, then serve hot."
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/EGGPLANT_TORTA.jpg/1200px-EGGPLANT_TORTA.jpg"
   },
@@ -879,38 +873,36 @@
       "Oil for brushing"
     ],
     "instructions": [
-      "Marinate the bangus with garlic, calamansi, salt, and pepper for at least 30 minutes.",
-      "Preheat the grill and brush the fish with oil.",
-      "Grill the bangus on both sides until fully cooked and slightly charred.",
-      "Serve hot with a side of rice and a dipping sauce."
+      "Marinate the bangus with garlic, calamansi juice, salt, and pepper for at least 30 minutes.",
+      "Brush the fish with oil and grill over medium heat until cooked through with slight charring.",
+      "Serve hot with steamed rice and a side of fresh salad."
     ],
     "image": "https://www.unileverfoodsolutions.com.ph/dam/global-ufs/mcos/sea/philippines/acm/recipe/2023/grilled-boneless-bangus-with-green-tomato-salad/inihaw-na-bangus-grilled-boneless-bangus-preview.jpg"
   },
   {
     "name": "Rellenong Bangus",
-    "description": "Rellenong Bangus is a stuffed milkfish dish in Kapampangan cuisine, where the fish is filled with a savory vegetable and egg mixture.",
+    "description": "Rellenong Bangus is a stuffed milkfish dish in Kapampangan cuisine, featuring a savory mixture of fish, vegetables, and egg.",
     "category": "Main Dish",
     "estimated_time": "31 minutes",
     "servings": "4 servings",
     "ingredients": [
-      "1 whole bangus (milkfish), deboned",
-      "1/2 cup vegetables (carrot and bell pepper), finely chopped",
+      "1 whole bangus (milkfish), deboned and flaked",
+      "1/2 cup mixed vegetables (carrot and bell pepper), finely chopped",
       "1 small onion, chopped",
       "1 egg, lightly beaten",
       "Salt and pepper to taste",
-      "Oil for frying"
+      "Oil for pan-frying"
     ],
     "instructions": [
-      "Flake the milkfish and combine with chopped vegetables, onion, egg, salt, and pepper.",
-      "Stuff the mixture back into the cleaned fish skin or form into patties.",
-      "Pan-fry until golden brown and crispy.",
+      "Mix the flaked milkfish with chopped vegetables, onion, and beaten egg; season with salt and pepper.",
+      "Option 1: Stuff the mixture into the cleaned bangus skin and roll; pan-fry until golden. Option 2: Form the mixture into patties and fry until crispy.",
       "Serve hot with a dipping sauce and steamed rice."
     ],
     "image": "https://www.kawalingpinoy.com/wp-content/uploads/2014/04/rellenong-bangus.jpg"
   },
   {
     "name": "Tinolang Manok",
-    "description": "Tinolang Manok is a comforting chicken soup in Kapampangan cuisine, enriched with green papaya and leafy greens.",
+    "description": "Tinolang Manok is a comforting chicken soup in Kapampangan style, enriched with green papaya and leafy greens.",
     "category": "Breakfast",
     "estimated_time": "61 minutes",
     "servings": "2 servings",
@@ -924,23 +916,22 @@
       "Salt and pepper to taste"
     ],
     "instructions": [
-      "Sauté garlic and onion until translucent.",
-      "Add chicken and brown lightly.",
-      "Pour in water or broth and simmer until chicken is tender.",
-      "Add green papaya and cook until just soft.",
-      "Stir in chili leaves, season with salt and pepper, and simmer for another minute.",
-      "Serve hot with steamed rice."
+      "Sauté garlic and onion in a pot until translucent.",
+      "Add chicken pieces and lightly brown them.",
+      "Pour in water or broth and simmer until the chicken is tender.",
+      "Add green papaya and cook until just softened.",
+      "Mix in chili leaves, season with salt and pepper, and simmer briefly before serving."
     ],
     "image": "https://amiablefoods.com/wp-content/uploads/tinolang-manok-recipe-card.jpg"
   },
   {
     "name": "Chicken Inasal",
-    "description": "Chicken Inasal is a signature grilled chicken dish from Kapampangan cuisine, marinated in a tangy, garlicky mixture for vibrant flavor.",
+    "description": "Chicken Inasal is a signature Kapampangan grilled chicken marinated in a tangy and garlicky mixture with vibrant annatto oil.",
     "category": "Main Dish",
     "estimated_time": "77 minutes",
     "servings": "2 servings",
     "ingredients": [
-      "1 whole chicken, cut into pieces",
+      "1 whole chicken, cut into serving pieces",
       "1/2 cup calamansi juice",
       "1/4 cup soy sauce",
       "4 cloves garlic, minced",
@@ -948,16 +939,15 @@
       "Salt and pepper to taste"
     ],
     "instructions": [
-      "Marinate the chicken pieces in calamansi juice, soy sauce, garlic, annatto oil, salt, and pepper for at least 3 hours.",
-      "Grill the chicken over medium heat until cooked through and slightly charred.",
-      "Baste with extra marinade during grilling.",
+      "Marinate the chicken in calamansi juice, soy sauce, garlic, annatto oil, salt, and pepper for at least 3 hours.",
+      "Grill the chicken over medium heat, basting with extra marinade until charred and cooked through.",
       "Serve hot with garlic rice and a side of pickled vegetables."
     ],
     "image": "https://www.maggi.ph/sites/default/files/srh_recipes/fb57f76d3cd9b83f1509f030c7024b51.jpg"
   },
   {
     "name": "Pastel",
-    "description": "Pastel is a Kapampangan version of a savory roll filled with shrimp and vegetables, steamed to perfection.",
+    "description": "Pastel is a Kapampangan savory roll filled with a delicate mixture of shrimp and vegetables, steamed to perfection.",
     "category": "Main Dish",
     "estimated_time": "66 minutes",
     "servings": "6 servings",
@@ -972,22 +962,21 @@
       "Lumpia wrappers"
     ],
     "instructions": [
-      "Mix shrimp, vegetables, egg, and soy sauce, and season with salt and pepper.",
+      "Combine shrimp, diced vegetables, beaten egg, and soy sauce; season with salt and pepper.",
       "Place a portion of the mixture on a lumpia wrapper and roll tightly.",
-      "Steam the rolls for 20 minutes until set.",
-      "Slice and lightly pan-fry to crisp the edges, if desired.",
+      "Steam the rolls for 20 minutes until set, then slice and optionally pan-fry the edges for extra crispiness.",
       "Serve warm."
     ],
     "image": "https://www.kawalingpinoy.com/wp-content/uploads/2016/02/chicken-pastel-1.jpg"
   },
   {
     "name": "Pininyahang Manok",
-    "description": "Pininyahang Manok features chicken simmered in a creamy coconut milk sauce with pineapple, blending sweet and savory Kapampangan flavors.",
+    "description": "Pininyahang Manok features tender chicken simmered in a sweet and savory coconut milk sauce with pineapple and bell pepper.",
     "category": "Main Dish",
     "estimated_time": "72 minutes",
     "servings": "2 servings",
     "ingredients": [
-      "1/2 kg chicken, cut into pieces",
+      "1/2 kg chicken pieces",
       "1/2 cup pineapple chunks",
       "1/2 cup bell pepper, sliced",
       "1 cup coconut milk",
@@ -995,21 +984,21 @@
       "Salt and pepper to taste"
     ],
     "instructions": [
-      "Sauté garlic until fragrant, then add chicken and brown slightly.",
+      "Sauté garlic until fragrant, then add chicken and lightly brown.",
       "Pour in coconut milk and add pineapple and bell pepper.",
-      "Simmer until the chicken is tender and the sauce thickens.",
-      "Adjust seasonings and serve hot with rice."
+      "Simmer until the chicken is tender and the sauce thickens slightly.",
+      "Season with salt and pepper and serve hot with steamed rice."
     ],
     "image": "https://panlasangpinoy.com/wp-content/uploads/2009/11/Pininyahang-Manok-Pineapple-Chicken-jpg.webp"
   },
   {
     "name": "Ginataang Manok",
-    "description": "Ginataang Manok is a comforting chicken dish in Kapampangan style, simmered in coconut milk with a touch of sweetness from vegetables.",
+    "description": "Ginataang Manok is a comforting chicken dish in Kapampangan style, simmered in creamy coconut milk with a hint of sweetness from vegetables.",
     "category": "Main Dish",
     "estimated_time": "34 minutes",
     "servings": "5 servings",
     "ingredients": [
-      "1/2 kg chicken, cut into pieces",
+      "1/2 kg chicken pieces",
       "1 cup coconut milk",
       "1 small onion, chopped",
       "2 cloves garlic, minced",
@@ -1017,17 +1006,17 @@
       "Salt and pepper to taste"
     ],
     "instructions": [
-      "Sauté garlic and onion until softened.",
-      "Add chicken and cook until lightly browned.",
-      "Pour in coconut milk and add carrots.",
-      "Simmer until the chicken is cooked through and the sauce is creamy.",
+      "Sauté garlic and onion in oil until softened.",
+      "Add chicken pieces and brown lightly.",
+      "Pour in coconut milk and add sliced carrot.",
+      "Simmer until the chicken is fully cooked and the sauce is creamy.",
       "Season with salt and pepper and serve hot with rice."
     ],
     "image": "https://panlasangpinoy.com/wp-content/uploads/2014/12/Ginataang-Manok1.jpg"
   },
   {
     "name": "Leche Flan",
-    "description": "Leche Flan is a rich Filipino custard dessert with a silky texture and sweet caramel top, a true Kapampangan treat.",
+    "description": "Leche Flan is a rich and creamy Filipino custard dessert with a silky texture and a sweet, golden caramel topping.",
     "category": "Dessert",
     "estimated_time": "65 minutes",
     "servings": "2 servings",
@@ -1038,17 +1027,17 @@
       "1 cup sugar (for caramel)"
     ],
     "instructions": [
-      "Melt sugar in a pan to create a golden caramel and pour into a flan mold.",
-      "Whisk egg yolks with condensed and evaporated milk.",
+      "Melt sugar in a pan until golden to create a caramel; pour it into your flan mold.",
+      "Whisk together egg yolks, condensed milk, and evaporated milk until smooth.",
       "Pour the custard mixture over the caramel in the mold.",
-      "Steam in a water bath for 30-40 minutes until set.",
-      "Chill before serving."
+      "Steam in a water bath for 30-40 minutes, or bake in a preheated oven at 350°F until set.",
+      "Chill thoroughly before serving."
     ],
     "image": "https://bitesbybianca.com/wp-content/uploads/2024/12/filipino-leche-flan-cover-1.jpg"
   },
   {
     "name": "Brazo de Mercedes",
-    "description": "Brazo de Mercedes is a delicate rolled dessert featuring a light meringue exterior filled with a rich, sweet egg yolk custard.",
+    "description": "Brazo de Mercedes is a delicate rolled dessert with a light meringue exterior and a rich, sweet egg yolk custard filling.",
     "category": "Dessert",
     "estimated_time": "30 minutes",
     "servings": "3 servings",
@@ -1060,17 +1049,17 @@
       "1 tsp vanilla extract"
     ],
     "instructions": [
-      "Beat egg whites with sugar to form a stiff meringue.",
-      "Spread the meringue thinly on a baking sheet and bake until firm.",
-      "Mix egg yolks with condensed milk and vanilla to create a custard filling.",
-      "Spread the filling on the meringue and roll tightly.",
-      "Chill before slicing and serving."
+      "Beat egg whites with sugar until stiff peaks form to create a light meringue.",
+      "Spread the meringue thinly on a baking sheet and bake at low heat until firm.",
+      "In a saucepan, gently cook egg yolks with condensed milk and vanilla until a thick custard forms.",
+      "Spread the custard over the baked meringue and roll it tightly.",
+      "Refrigerate before slicing and serving."
     ],
     "image": "https://www.seriouseats.com/thmb/75l3kiixLd3GS5ihEaCWPSYNGBw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2024020120240129-brazo-de-mercedes-rezel-kealoha-51-SEA-66741383db5d46469525c14b270778ec.jpg"
   },
   {
     "name": "San Nicolas Cookies",
-    "description": "San Nicolas Cookies are melt-in-your-mouth Filipino treats with a crisp edge and tender center, perfect as a dessert or snack.",
+    "description": "San Nicolas Cookies are melt-in-your-mouth Filipino treats with a tender center and crisp edges—a traditional dessert from Kapampangan homes.",
     "category": "Dessert",
     "estimated_time": "74 minutes",
     "servings": "3 servings",
@@ -1084,37 +1073,38 @@
       "1 tsp vanilla extract"
     ],
     "instructions": [
-      "Cream butter and sugar until light and fluffy.",
+      "Cream together butter and sugar until light and fluffy.",
       "Mix in the egg and vanilla extract.",
-      "Sift together flour, baking powder, and salt; combine with the butter mixture.",
-      "Shape dough into cookies and bake at 350°F for 12-15 minutes until lightly golden.",
-      "Cool and serve."
+      "Sift together flour, baking powder, and salt; incorporate into the butter mixture.",
+      "Shape dough into small cookies and bake at 350°F for 12-15 minutes until lightly golden.",
+      "Cool completely and serve."
     ],
     "image": "https://media.philstar.com/photos/2022/01/14/pan-de_2022-01-14_17-00-31.jpg"
   },
   {
     "name": "Turon",
-    "description": "Turon is a beloved Filipino snack of caramelized bananas and jackfruit wrapped in a crispy spring roll wrapper.",
+    "description": "Turon is a beloved Filipino snack of caramelized saba bananas and jackfruit wrapped in a crispy spring roll wrapper.",
     "category": "Snack",
     "estimated_time": "89 minutes",
     "servings": "3 servings",
     "ingredients": [
-      "1 kg ripe bananas, sliced lengthwise",
+      "6 ripe saba bananas, cut lengthwise",
       "1 cup jackfruit strips",
       "1/2 cup brown sugar",
       "Lumpia wrappers",
       "Oil for deep frying"
     ],
     "instructions": [
-      "Dust banana slices with brown sugar and wrap with a lumpia wrapper along with a few strips of jackfruit.",
-      "Deep-fry until crispy and golden.",
-      "Drain excess oil and serve warm."
+      "Coat each banana slice in brown sugar and place a few jackfruit strips along the edge.",
+      "Roll tightly in a lumpia wrapper, sealing the edge with a little water.",
+      "Deep-fry until crispy and golden brown.",
+      "Drain on paper towels and serve warm."
     ],
     "image": "https://www.seriouseats.com/thmb/elzl8iopwr-WrEbCIApwmTXhB7M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210617-turon-vicky-wasik-seriouseats-seriouseats-25-c8fab2c218bf47d484afb614e51e3376.jpg"
   },
   {
     "name": "Bibingka",
-    "description": "Bibingka is a traditional Filipino rice cake with a soft, slightly chewy texture and subtle coconut flavor, often enjoyed as a dessert.",
+    "description": "Bibingka is a traditional Filipino rice cake with a soft, slightly chewy texture and a subtle coconut flavor, often enjoyed during celebrations.",
     "category": "Dessert",
     "estimated_time": "89 minutes",
     "servings": "5 servings",
@@ -1127,17 +1117,17 @@
       "Banana leaves for lining"
     ],
     "instructions": [
-      "Mix rice flour, sugar, and baking powder together.",
-      "Stir in coconut milk and melted butter until smooth.",
-      "Pour the batter into a bowl lined with banana leaves.",
-      "Bake at 375°F for 25-30 minutes until set and slightly golden.",
-      "Serve warm with a dusting of sugar."
+      "Combine rice flour, sugar, and baking powder in a bowl.",
+      "Stir in coconut milk and melted butter until a smooth batter forms.",
+      "Line a baking pan with banana leaves and pour in the batter.",
+      "Bake at 375°F for 25-30 minutes until set and lightly golden.",
+      "Serve warm, optionally dusted with extra sugar."
     ],
     "image": "https://assets.unileversolutions.com/recipes-v2/110360.jpg"
   },
   {
     "name": "Puto Bumbong",
-    "description": "Puto Bumbong is a traditional Filipino purple rice cake steamed in bamboo tubes, popular during festive occasions.",
+    "description": "Puto Bumbong is a festive Filipino purple rice cake steamed in bamboo tubes, traditionally enjoyed during the Christmas season.",
     "category": "Dessert",
     "estimated_time": "30 minutes",
     "servings": "2 servings",
@@ -1149,15 +1139,15 @@
       "Sugar to taste"
     ],
     "instructions": [
-      "Soak the glutinous rice in water overnight.",
-      "Steam the rice in a bamboo tube or mold until soft.",
-      "Serve topped with grated coconut and a sprinkle of sugar."
+      "Soak glutinous rice in water overnight.",
+      "Steam the soaked rice in bamboo tubes or a mold until soft.",
+      "Serve with grated coconut and a sprinkling of sugar on top."
     ],
     "image": "https://amiablefoods.com/wp-content/uploads/puto-bumbong-close-2-810x810-700x700.jpg"
   },
   {
     "name": "Kutsinta",
-    "description": "Kutsinta is a chewy Filipino steamed rice cake with a slightly gelatinous texture and a subtle sweetness, enjoyed with coconut.",
+    "description": "Kutsinta is a chewy Filipino steamed rice cake with a gelatinous texture and subtle sweetness, best enjoyed with grated coconut.",
     "category": "Dessert",
     "estimated_time": "52 minutes",
     "servings": "3 servings",
@@ -1169,16 +1159,16 @@
       "Grated coconut for topping"
     ],
     "instructions": [
-      "Mix rice flour and lye water.",
+      "Mix rice flour with lye water until smooth.",
       "Dissolve brown sugar in water and combine with the flour mixture.",
-      "Pour into molds and steam for 25-30 minutes until set.",
+      "Pour the batter into molds and steam for 25-30 minutes until set.",
       "Serve topped with freshly grated coconut."
     ],
     "image": "https://www.recipesbynora.com/wp-content/uploads/2023/09/Kutsinta-on-a-banana-leaf-featured-image-1.jpg"
   },
   {
     "name": "Sapin-Sapin",
-    "description": "Sapin-Sapin is a vibrant Filipino layered rice cake with a sweet, chewy texture and a beautiful presentation.",
+    "description": "Sapin-Sapin is a vibrant Filipino layered rice cake with a sweet, chewy texture and an eye-catching presentation.",
     "category": "Dessert",
     "estimated_time": "83 minutes",
     "servings": "4 servings",
@@ -1191,8 +1181,8 @@
     ],
     "instructions": [
       "Mix glutinous rice flour, coconut milk, and sugar to form a smooth batter.",
-      "Divide the batter into several portions and color each with different food colorings.",
-      "Layer the different colored batters in a greased pan.",
+      "Divide the batter into portions and add different food colorings to each.",
+      "Layer the colored batters in a greased pan.",
       "Steam for 45-60 minutes until firm.",
       "Cool, slice, and garnish with toasted coconut flakes."
     ],
@@ -1206,22 +1196,22 @@
     "servings": "2 servings",
     "ingredients": [
       "2 cups young coconut meat, shredded",
-      "1 pack pandan jelly (prepared as per package instructions)",
+      "1 pack pandan jelly (prepared according to package instructions)",
       "1 can condensed milk",
       "1 cup heavy cream",
       "1 cup diced fruits (optional)"
     ],
     "instructions": [
-      "Mix shredded coconut with diced fruits.",
-      "Fold in the prepared pandan jelly cubes.",
-      "Add condensed milk and heavy cream, stirring until well combined.",
+      "Mix the shredded coconut with diced fruits.",
+      "Fold in the pandan jelly cubes.",
+      "Add condensed milk and heavy cream; stir until well combined.",
       "Chill in the refrigerator for at least 2 hours before serving."
     ],
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9xnHhJ4JNjsBI8bHy4rTit8fPHj0ThoetLg&s"
   },
   {
     "name": "Halo-Halo",
-    "description": "Halo-Halo is the ultimate Filipino dessert—a vibrant mix of sweet fruits, beans, milk, and ice, perfect for hot days.",
+    "description": "Halo-Halo is the ultimate Filipino dessert—a colorful mix of sweet fruits, beans, milk, and ice that refreshes on hot days.",
     "category": "Dessert",
     "estimated_time": "53 minutes",
     "servings": "6 servings",
@@ -1231,20 +1221,19 @@
       "Leche flan, sliced",
       "Ube ice cream",
       "Evaporated milk",
-      "Shaved ice for topping"
+      "Shaved ice for topping (optional)"
     ],
     "instructions": [
-      "Layer the sweet beans and fruits at the bottom of a tall glass.",
-      "Fill the glass with crushed ice.",
-      "Drizzle evaporated milk over the ice.",
+      "Layer sweet beans and fruits at the bottom of a tall glass.",
+      "Fill the glass with crushed ice and pour evaporated milk over it.",
       "Top with slices of leche flan and a scoop of ube ice cream.",
-      "Finish with a topping of shaved ice, if desired, and serve immediately."
+      "Add shaved ice if desired and serve immediately."
     ],
     "image": "https://assets.bonappetit.com/photos/60e46c6701084801b06de2a3/16:9/w_2190,h_1232,c_limit/Halo-Halo-Recipe-2021.jpg"
   },
   {
     "name": "Ube Halaya",
-    "description": "Ube Halaya is a creamy and vibrantly colored Filipino dessert made from purple yam, steeped in the rich flavors of coconut and condensed milk.",
+    "description": "Ube Halaya is a creamy and vibrantly colored Filipino dessert made from purple yam, enriched with coconut and condensed milk.",
     "category": "Dessert",
     "estimated_time": "86 minutes",
     "servings": "3 servings",
@@ -1257,16 +1246,16 @@
     ],
     "instructions": [
       "Mash the boiled ube until smooth.",
-      "In a pan, melt butter and add the mashed ube.",
+      "Melt butter in a pan and add the mashed ube.",
       "Stir in coconut milk, condensed milk, and sugar.",
-      "Cook on low heat, stirring continuously until the mixture thickens.",
-      "Pour into a mold, cool, and serve as a rich purple yam dessert."
+      "Cook on low heat while stirring continuously until the mixture thickens.",
+      "Pour into a mold, allow to cool, and serve as a rich dessert."
     ],
     "image": "https://bitesbybianca.com/wp-content/uploads/2024/06/ube-halaya-3.jpg"
   },
   {
     "name": "Maja Blanca",
-    "description": "Maja Blanca is a smooth and creamy Filipino pudding made with coconut milk and corn, garnished with a sprinkle of cheese.",
+    "description": "Maja Blanca is a smooth, creamy Filipino pudding made with coconut milk and corn, garnished with a sprinkle of cheese.",
     "category": "Dessert",
     "estimated_time": "77 minutes",
     "servings": "3 servings",
@@ -1278,16 +1267,16 @@
       "1/4 cup grated cheese (for topping)"
     ],
     "instructions": [
-      "Mix coconut milk, corn, cornstarch, and sugar in a saucepan.",
-      "Cook over medium heat, stirring continuously until the mixture thickens and pulls away from the sides.",
-      "Pour into a greased dish and let cool.",
-      "Refrigerate for a few hours, then top with grated cheese before serving."
+      "Combine coconut milk, corn, cornstarch, and sugar in a saucepan.",
+      "Cook over medium heat, stirring until the mixture thickens and pulls away from the sides.",
+      "Pour into a greased dish and allow to cool.",
+      "Refrigerate for a few hours before topping with grated cheese and serving."
     ],
     "image": "https://www.kawalingpinoy.com/wp-content/uploads/2018/11/creamy-maja-blanca-1.jpg"
   },
   {
     "name": "Palitaw",
-    "description": "Palitaw is a traditional Filipino rice cake made from glutinous rice, dusted with sweet, grated coconut.",
+    "description": "Palitaw is a traditional Filipino rice cake made from glutinous rice, coated with sweetened grated coconut.",
     "category": "Dessert",
     "estimated_time": "68 minutes",
     "servings": "2 servings",
@@ -1295,18 +1284,18 @@
       "2 cups glutinous rice",
       "1 cup water",
       "1/2 cup grated coconut (for topping)",
-      "Sugar, to taste"
+      "Sugar to taste"
     ],
     "instructions": [
-      "Soak glutinous rice in water overnight.",
+      "Soak the glutinous rice in water overnight.",
       "Shape the rice into small, flat cakes and steam until cooked.",
-      "Roll the cooked cakes in grated coconut mixed with sugar, then serve warm."
+      "Roll the cooked cakes in a mixture of grated coconut and sugar, and serve warm."
     ],
     "image": "https://cdn.sanity.io/images/f3knbc2s/production/8aae18481b58f13246bd18674ae968258e586cbe-2500x1500.jpg"
   },
   {
     "name": "Cassava Cake",
-    "description": "Cassava Cake is a dense, sweet Filipino dessert made from grated cassava and coconut milk, often enjoyed during celebrations.",
+    "description": "Cassava Cake is a dense, sweet Filipino dessert made from cassava and coconut milk, often enjoyed during festive occasions.",
     "category": "Dessert",
     "estimated_time": "45 minutes",
     "servings": "3 servings",
@@ -1315,20 +1304,20 @@
       "1 cup coconut milk",
       "1 cup condensed milk",
       "1/2 cup sugar",
-      "1/4 cup butter, melted",
+      "1/4 cup melted butter",
       "1/2 cup grated cheese (for topping)"
     ],
     "instructions": [
-      "Mix cassava, coconut milk, condensed milk, sugar, and butter in a bowl.",
+      "Combine grated cassava, coconut milk, condensed milk, sugar, and melted butter in a bowl.",
       "Pour the mixture into a greased baking pan.",
-      "Bake at 350°F for 45 minutes or until set and golden on top.",
-      "Sprinkle with grated cheese and serve warm."
+      "Bake at 350°F for 45 minutes or until the cake is set and golden on top.",
+      "Sprinkle grated cheese on top and serve warm."
     ],
     "image": "https://panlasangpinoy.com/wp-content/uploads/2009/08/cassava-cake-1.jpg"
   },
   {
     "name": "Pichi-Pichi",
-    "description": "Pichi-Pichi is a soft, chewy Filipino dessert made with grated cassava, often colored red and rolled in fresh coconut.",
+    "description": "Pichi-Pichi is a soft, chewy Filipino dessert made from grated cassava, often vibrantly colored and coated in fresh coconut.",
     "category": "Dessert",
     "estimated_time": "55 minutes",
     "servings": "3 servings",
@@ -1340,16 +1329,16 @@
       "Grated coconut (for coating)"
     ],
     "instructions": [
-      "Mix grated cassava, sugar, and water in a pot and cook over medium heat until thickened.",
-      "If desired, add a few drops of red food coloring to give a vibrant hue.",
-      "Spoon the mixture into small molds and let cool to set.",
-      "Roll in grated coconut before serving."
+      "Cook grated cassava, sugar, and water over medium heat until thickened.",
+      "Add a few drops of red food coloring for a vibrant hue, if desired.",
+      "Spoon the mixture into small molds and let it set.",
+      "Roll the set cakes in grated coconut before serving."
     ],
     "image": "https://themayakitchen.com/wp-content/uploads/2018/10/PICHI-PICHI.jpg"
   },
   {
     "name": "Puto",
-    "description": "Puto is a soft, steamed Filipino rice cake that is light and slightly sweet, perfect as a snack or side dish.",
+    "description": "Puto is a soft, steamed Filipino rice cake that is light and slightly sweet—perfect as a snack or side dish.",
     "category": "Snack",
     "estimated_time": "47 minutes",
     "servings": "5 servings",
@@ -1363,7 +1352,7 @@
     ],
     "instructions": [
       "Mix rice flour, baking powder, sugar, egg, and water to form a smooth batter.",
-      "Pour into small molds and steam for 15-20 minutes until a toothpick inserted comes out clean.",
+      "Pour the batter into small molds and steam for 15-20 minutes until a toothpick comes out clean.",
       "Top with grated cheese if desired, and serve warm."
     ],
     "image": "https://theskinnypot.com/wp-content/uploads/2018/11/Puto-Cheese-480x270.jpg"
@@ -1384,34 +1373,34 @@
       "Mix glutinous rice with coconut milk and sugar.",
       "Wrap portions of the mixture in banana leaves.",
       "Steam the wrapped rice cakes for 30-40 minutes until fully cooked.",
-      "Serve warm with a drizzle of sugar or latik (coconut caramel)."
+      "Serve warm, optionally drizzled with coconut caramel (latik)."
     ],
     "image": "https://sweetsimplevegan.com/wp-content/uploads/2021/12/suman-malagkit-recipe-Sweet-Simple-Vegan-5.jpg"
   },
   {
     "name": "Nilupak",
-    "description": "Nilupak is a velvety Filipino dessert made from mashed cassava or saba, simmered with coconut milk and condensed milk.",
+    "description": "Nilupak is a velvety Filipino dessert made from mashed cassava or bananas, simmered in coconut milk and condensed milk.",
     "category": "Dessert",
     "estimated_time": "33 minutes",
     "servings": "2 servings",
     "ingredients": [
-      "2 cups mashed cassava or banana (saba)",
+      "2 cups mashed cassava (or mashed saba bananas)",
       "1 cup coconut milk",
       "1/2 cup condensed milk",
       "Sugar to taste",
-      "Butter, for greasing"
+      "Butter for greasing"
     ],
     "instructions": [
-      "Combine mashed cassava or saba with coconut milk, condensed milk, and sugar.",
-      "Cook over low heat while stirring until the mixture thickens.",
-      "Transfer to a greased pan, smooth the top, and let cool.",
-      "Cut into squares and serve as a rich, comforting dessert."
+      "Combine the mashed cassava (or saba) with coconut milk, condensed milk, and sugar.",
+      "Cook over low heat while stirring continuously until the mixture thickens.",
+      "Transfer to a greased pan, smooth the surface, and let cool.",
+      "Cut into squares and serve as a comforting dessert."
     ],
     "image": "https://yummykitchentv.com/wp-content/uploads/2021/01/cassava-nilupak-480x270.jpg"
   },
   {
     "name": "Ginataang Bilo-Bilo",
-    "description": "Ginataang Bilo-Bilo is a comforting Filipino dessert featuring chewy rice balls and sweet potato in a creamy coconut milk broth.",
+    "description": "Ginataang Bilo-Bilo is a comforting Filipino dessert featuring chewy rice balls, sweet potato, and tapioca pearls in a creamy coconut milk broth.",
     "category": "Dessert",
     "estimated_time": "66 minutes",
     "servings": "3 servings",
@@ -1419,34 +1408,33 @@
       "1 cup glutinous rice balls (bilo-bilo)",
       "2 cups coconut milk",
       "1/2 cup sugar",
-      "1/2 cup sago (tapioca pearls), cooked",
+      "1/2 cup cooked sago (tapioca pearls)",
       "1/2 cup diced sweet potato",
       "A pinch of salt"
     ],
     "instructions": [
-      "Cook the sago pearls and set aside.",
       "In a pot, combine coconut milk, sugar, diced sweet potato, and salt; bring to a simmer.",
-      "Add the glutinous rice balls and cooked sago; simmer until all ingredients are tender and the mixture slightly thickens.",
+      "Add the glutinous rice balls and cooked sago, and simmer until everything is soft and the sauce thickens slightly.",
       "Serve warm or chilled."
     ],
     "image": "https://pilipinasrecipes.com/wp-content/uploads/2019/05/IMG_3932.jpg"
   },
   {
     "name": "Banana Cue",
-    "description": "Banana Cue is a popular Filipino street snack featuring caramelized saba bananas deep-fried to perfection.",
+    "description": "Banana Cue is a popular Filipino street snack of caramelized saba bananas deep-fried to perfection.",
     "category": "Snack",
     "estimated_time": "55 minutes",
     "servings": "2 servings",
     "ingredients": [
       "6 saba bananas, peeled",
       "1 cup brown sugar",
-      "Oil for frying"
+      "Oil for deep frying"
     ],
     "instructions": [
       "Heat oil in a deep pan.",
       "Roll each banana in brown sugar until evenly coated.",
-      "Deep-fry until the sugar caramelizes and the bananas are golden.",
-      "Drain excess oil on paper towels and serve warm on a stick."
+      "Deep-fry until the sugar caramelizes and the bananas turn golden.",
+      "Drain on paper towels and serve warm, ideally on a skewer."
     ],
     "image": "https://cdn.sanity.io/images/f3knbc2s/production/d6f68e9829289c8826f4d70b0f45bd1ae6fca144-2500x1500.jpg"
   },
@@ -1459,239 +1447,15 @@
     "ingredients": [
       "4 medium sweet potatoes (camote), peeled and cut into chunks",
       "1 cup brown sugar",
-      "Oil for frying"
+      "Oil for deep frying"
     ],
     "instructions": [
       "Heat oil in a deep pan.",
-      "Roll each sweet potato chunk in brown sugar until well coated.",
-      "Deep-fry until the sugar melts and forms a crisp, caramelized coating on the sweet potatoes.",
+      "Coat each sweet potato chunk in brown sugar.",
+      "Deep-fry until the sugar melts, forming a crisp, caramelized coating.",
       "Drain on paper towels and serve hot."
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/3395San_Antonio_Valley_Street_Foods_06.jpg/1200px-3395San_Antonio_Valley_Street_Foods_06.jpg"
-  },
-  {
-    "name": "Biko",
-    "description": "Biko is a popular dish in Kapampangan cuisine.",
-    "category": "Snack",
-    "estimated_time": "32 minutes",
-    "servings": "4 servings",
-    "ingredients": [
-      "Ingredients vary."
-    ],
-    "instructions": [
-      "Please refer to traditional recipes."
-    ],
-    "image": "https://www.seriouseats.com/thmb/W9cK95wrWNLlRtrxS3jqUWHonFs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210617-biko-vicky-wasik-seriouseats-seriouseats-27-62f3c7854d1443dfbe36f1b29dc1dae5.jpg"
-  },
-  {
-    "name": "Arroz Caldo",
-    "description": "Arroz Caldo is a comforting Kapampangan breakfast choice to start your day.",
-    "category": "Breakfast",
-    "estimated_time": "61 minutes",
-    "servings": "3 servings",
-    "ingredients": [
-      "Ingredients vary by recipe."
-    ],
-    "instructions": [
-      "Please refer to traditional Kapampangan breakfast recipes."
-    ],
-    "image": "https://www.eatwithcarmen.com/wp-content/uploads/2024/09/Arroz-Caldo-filipino-recipe.jpg"
-  },
-  {
-    "name": "Champorado",
-    "description": "Champorado is a popular dish in Kapampangan cuisine.",
-    "category": "Snack",
-    "estimated_time": "47 minutes",
-    "servings": "5 servings",
-    "ingredients": [
-      "Ingredients vary."
-    ],
-    "instructions": [
-      "Please refer to traditional recipes."
-    ],
-    "image": "https://yummykitchentv.com/wp-content/uploads/2023/08/champorado-recipe.jpg"
-  },
-  {
-    "name": "Ensaymada",
-    "description": "Ensaymada is a flavorful Kapampangan side dish that complements any meal.",
-    "category": "Side Dish",
-    "estimated_time": "86 minutes",
-    "servings": "4 servings",
-    "ingredients": [
-      "Ingredients vary by recipe."
-    ],
-    "instructions": [
-      "Please refer to traditional Kapampangan side dish recipes."
-    ],
-    "image": "https://www.todaysdelight.com/wp-content/uploads/2024/06/ensaymada-recipe-6392-1.jpg"
-  },
-  {
-    "name": "Monay",
-    "description": "Monay is a flavorful Kapampangan side dish that complements any meal.",
-    "category": "Side Dish",
-    "estimated_time": "55 minutes",
-    "servings": "4 servings",
-    "ingredients": [
-      "Ingredients vary by recipe."
-    ],
-    "instructions": [
-      "Please refer to traditional Kapampangan side dish recipes."
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Pan_de_monja_%28Monay%29_Philippines.jpg"
-  },
-  {
-    "name": "Spanish Bread",
-    "description": "Spanish Bread is a popular dish in Kapampangan cuisine.",
-    "category": "Snack",
-    "estimated_time": "76 minutes",
-    "servings": "3 servings",
-    "ingredients": [
-      "Ingredients vary."
-    ],
-    "instructions": [
-      "Please refer to traditional recipes."
-    ],
-    "image": "https://www.foxyfolksy.com/wp-content/uploads/2017/02/filipino-bread-640-500x500.jpg"
-  },
-  {
-    "name": "Pan de Coco",
-    "description": "Pan de Coco is a classic Kapampangan main dish enjoyed for its hearty flavors.",
-    "category": "Main Dish",
-    "estimated_time": "69 minutes",
-    "servings": "2 servings",
-    "ingredients": [
-      "Ingredients vary by recipe."
-    ],
-    "instructions": [
-      "Please refer to traditional Kapampangan main dish recipes."
-    ],
-    "image": "https://www.foxyfolksy.com/wp-content/uploads/2021/03/pan-de-coco-1200t.jpg"
-  },
-  {
-    "name": "Kababayan Bread",
-    "description": "Kababayan Bread is a delicious Kapampangan dessert with its unique sweet flavor.",
-    "category": "Dessert",
-    "estimated_time": "44 minutes",
-    "servings": "6 servings",
-    "ingredients": [
-      "Ingredients vary by recipe."
-    ],
-    "instructions": [
-      "Please refer to traditional Kapampangan dessert recipes."
-    ],
-    "image": "https://i.imgur.com/iltjrDx.jpg"
-  },
-  {
-    "name": "Yema Cake",
-    "description": "Yema Cake is a popular dish in Kapampangan cuisine.",
-    "category": "Snack",
-    "estimated_time": "52 minutes",
-    "servings": "6 servings",
-    "ingredients": [
-      "Ingredients vary."
-    ],
-    "instructions": [
-      "Please refer to traditional recipes."
-    ],
-    "image": "https://example.com/images/yema_cake.jpg"
-  },
-  {
-    "name": "Ube Cake",
-    "description": "Ube Cake is a comforting Kapampangan breakfast choice to start your day.",
-    "category": "Breakfast",
-    "estimated_time": "44 minutes",
-    "servings": "6 servings",
-    "ingredients": [
-      "Ingredients vary by recipe."
-    ],
-    "instructions": [
-      "Please refer to traditional Kapampangan breakfast recipes."
-    ],
-    "image": "https://www.createwithnestle.ph/sites/default/files/srh_recipes/ad8698813910546a7867751ae0ccdf74.jpg"
-  },
-  {
-    "name": "Mango Float",
-    "description": "Mango Float is a flavorful Kapampangan side dish that complements any meal.",
-    "category": "Side Dish",
-    "estimated_time": "74 minutes",
-    "servings": "4 servings",
-    "ingredients": [
-      "Ingredients vary by recipe."
-    ],
-    "instructions": [
-      "Please refer to traditional Kapampangan side dish recipes."
-    ],
-    "image": "https://bakewithzoha.com/wp-content/uploads/2024/05/mango-float-featured.jpg"
-  },
-  {
-    "name": "Creamy Buko Salad",
-    "description": "Creamy Buko Salad is a popular dish in Kapampangan cuisine.",
-    "category": "Snack",
-    "estimated_time": "70 minutes",
-    "servings": "6 servings",
-    "ingredients": [
-      "Ingredients vary."
-    ],
-    "instructions": [
-      "Please refer to traditional recipes."
-    ],
-    "image": "https://www.createwithnestle.ph/sites/default/files/srh_recipes/3db9667ee97f4a374d6a42009c1a980f.png"
-  },
-  {
-    "name": "Buko Pie",
-    "description": "Buko Pie is a flavorful Kapampangan side dish that complements any meal.",
-    "category": "Side Dish",
-    "estimated_time": "76 minutes",
-    "servings": "5 servings",
-    "ingredients": [
-      "Ingredients vary by recipe."
-    ],
-    "instructions": [
-      "Please refer to traditional Kapampangan side dish recipes."
-    ],
-    "image": "https://amiablefoods.com/wp-content/uploads/buko-pie-recipe-card-1.jpg"
-  },
-  {
-    "name": "Cassava Bibingka",
-    "description": "Cassava Bibingka is a delicious Kapampangan dessert with its unique sweet flavor.",
-    "category": "Dessert",
-    "estimated_time": "32 minutes",
-    "servings": "4 servings",
-    "ingredients": [
-      "Ingredients vary by recipe."
-    ],
-    "instructions": [
-      "Please refer to traditional Kapampangan dessert recipes."
-    ],
-    "image": "https://altonbrown.com/wp-content/uploads/2022/08/IMG_7976-scaled.jpeg"
-  },
-  {
-    "name": "Maruya",
-    "description": "Maruya is a flavorful Kapampangan side dish that complements any meal.",
-    "category": "Side Dish",
-    "estimated_time": "59 minutes",
-    "servings": "6 servings",
-    "ingredients": [
-      "Ingredients vary by recipe."
-    ],
-    "instructions": [
-      "Please refer to traditional Kapampangan side dish recipes."
-    ],
-    "image": "https://yummykitchentv.com/wp-content/uploads/2020/11/banana-fritters-500x375.jpg"
-  },
-  {
-    "name": "Sinukmani",
-    "description": "Sinukmani is a classic Kapampangan main dish enjoyed for its hearty flavors.",
-    "category": "Main Dish",
-    "estimated_time": "83 minutes",
-    "servings": "4 servings",
-    "ingredients": [
-      "Ingredients vary by recipe."
-    ],
-    "instructions": [
-      "Please refer to traditional Kapampangan main dish recipes."
-    ],
-    "image": "https://kusinasecrets.com/wp-content/uploads/2024/12/u3317447599_httpss.mj_.runcSrD8HHphpA_top_down_view_of_Traditi_e1ae50bd-9354-4d46-b2d5-34fbdfb0e661_2.jpg"
   },
   {
     "name": "Kalamay",
@@ -1700,10 +1464,10 @@
     "estimated_time": "72 minutes",
     "servings": "2 servings",
     "ingredients": [
-      "Ingredients vary."
+      "Please refer to authentic Kapampangan recipes."
     ],
     "instructions": [
-      "Please refer to traditional recipes."
+      "Please refer to authentic Kapampangan recipes."
     ],
     "image": "https://www.kawalingpinoy.com/wp-content/uploads/2017/04/kalamay-sa-latik-12.jpg"
   },
@@ -1714,80 +1478,52 @@
     "estimated_time": "48 minutes",
     "servings": "6 servings",
     "ingredients": [
-      "Ingredients vary."
+      "Please refer to authentic Kapampangan recipes."
     ],
     "instructions": [
-      "Please refer to traditional recipes."
+      "Please refer to authentic Kapampangan recipes."
     ],
     "image": "https://images.yummy.ph/yummy/uploads/2017/08/ginataang-mais-1.jpg"
   },
   {
     "name": "Pastillas",
-    "description": "Pastillas is a classic Kapampangan main dish enjoyed for its hearty flavors.",
+    "description": "Pastillas is a classic Kapampangan main dish celebrated for its hearty flavors.",
     "category": "Main Dish",
     "estimated_time": "80 minutes",
     "servings": "2 servings",
     "ingredients": [
-      "Ingredients vary by recipe."
+      "Please refer to authentic Kapampangan main dish recipes."
     ],
     "instructions": [
-      "Please refer to traditional Kapampangan main dish recipes."
+      "Please refer to authentic Kapampangan main dish recipes."
     ],
     "image": "https://www.tastingtable.com/img/gallery/pastillas-are-a-milky-sweet-treat-you-should-know-from-the-philippines/l-intro-1676388726.jpg"
   },
   {
-    "name": "Tibok-Tibok",
-    "description": "Tibok-Tibok is a classic Kapampangan main dish enjoyed for its hearty flavors.",
-    "category": "Main Dish",
-    "estimated_time": "53 minutes",
-    "servings": "6 servings",
-    "ingredients": [
-      "Ingredients vary by recipe."
-    ],
-    "instructions": [
-      "Please refer to traditional Kapampangan main dish recipes."
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Tibok-tibok%2C_Queen_of_Kapampangan_dessert.jpg/1200px-Tibok-tibok%2C_Queen_of_Kapampangan_dessert.jpg"
-  },
-  {
-    "name": "Kropek",
-    "description": "Kropek is a flavorful Kapampangan side dish that complements any meal.",
-    "category": "Side Dish",
-    "estimated_time": "58 minutes",
-    "servings": "4 servings",
-    "ingredients": [
-      "Ingredients vary by recipe."
-    ],
-    "instructions": [
-      "Please refer to traditional Kapampangan side dish recipes."
-    ],
-    "image": "https://i.ytimg.com/vi/TdCHZ-6rWsU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAvD-n7HurVAIZScb9wQXJs6sAB9Q"
-  },
-  {
     "name": "Lumpiang Ubod",
-    "description": "Lumpiang Ubod is a classic Kapampangan main dish enjoyed for its hearty flavors.",
+    "description": "Lumpiang Ubod is a classic Kapampangan main dish celebrated for its hearty flavors.",
     "category": "Main Dish",
     "estimated_time": "32 minutes",
     "servings": "4 servings",
     "ingredients": [
-      "Ingredients vary by recipe."
+      "Please refer to authentic Kapampangan main dish recipes."
     ],
     "instructions": [
-      "Please refer to traditional Kapampangan main dish recipes."
+      "Please refer to authentic Kapampangan main dish recipes."
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/2013_Angeles_Philippines_Trip_Day_5_-_Lumpiang_Ubod.jpg"
   },
   {
     "name": "Kilawin",
-    "description": "Kilawin is a delicious Kapampangan dessert with its unique sweet flavor.",
+    "description": "Kilawin is a beloved Kapampangan dessert known for its distinct sweetness.",
     "category": "Dessert",
     "estimated_time": "68 minutes",
     "servings": "3 servings",
     "ingredients": [
-      "Ingredients vary by recipe."
+      "Please refer to authentic Kapampangan dessert recipes."
     ],
     "instructions": [
-      "Please refer to traditional Kapampangan dessert recipes."
+      "Please refer to authentic Kapampangan dessert recipes."
     ],
     "image": "https://www.seriouseats.com/thmb/EDJACM-L6nyjz87glF5ASLbuT7I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210727-KILAWIN-PORKBELLY-JANJIGIAN-seriouseats-10-420c5c458ac9456d8013b65f78950d1c.jpg"
   },
@@ -1798,24 +1534,24 @@
     "estimated_time": "90 minutes",
     "servings": "4 servings",
     "ingredients": [
-      "Ingredients vary."
+      "Please refer to authentic Kapampangan recipes."
     ],
     "instructions": [
-      "Please refer to traditional recipes."
+      "Please refer to authentic Kapampangan recipes."
     ],
     "image": "https://www.kawalingpinoy.com/wp-content/uploads/2013/06/inihaw-na-pusit-8.jpg"
   },
   {
     "name": "Pritong Tilapia",
-    "description": "Pritong Tilapia is a delicious Kapampangan dessert with its unique sweet flavor.",
+    "description": "Pritong Tilapia is a beloved Kapampangan dessert known for its distinct sweetness.",
     "category": "Dessert",
     "estimated_time": "90 minutes",
     "servings": "2 servings",
     "ingredients": [
-      "Ingredients vary by recipe."
+      "Please refer to authentic Kapampangan dessert recipes."
     ],
     "instructions": [
-      "Please refer to traditional Kapampangan dessert recipes."
+      "Please refer to authentic Kapampangan dessert recipes."
     ],
     "image": "https://www.maggi.ph/sites/default/files/srh_recipes/55c31e0994061c19912e468538c8043a.jpg"
   }
