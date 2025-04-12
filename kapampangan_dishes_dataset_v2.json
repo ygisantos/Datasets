@@ -1,7 +1,7 @@
 [
   {
     "name": "Sisig",
-    "description": "Sisig is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Sisig is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like cup, small, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "55 minutes",
     "servings": "3 servings",
@@ -26,7 +26,7 @@
   },
   {
     "name": "Tocino",
-    "description": "Tocino is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Tocino is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings. It often features ingredients like 2, cup, tbsp, which give it its signature taste and aroma.",
     "category": "Main Dish",
     "estimated_time": "87 minutes",
     "servings": "6 servings",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Bringhe",
-    "description": "Bringhe is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Bringhe is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like 2, cup, tbsp, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "49 minutes",
     "servings": "3 servings",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Pindang Damulag",
-    "description": "Pindang Damulag is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Pindang Damulag is a sweet Kapampangan dessert that brings a delightful end to any meal. It often features ingredients like 2, tbsp, which give it its signature taste and aroma.",
     "category": "Dessert",
     "estimated_time": "90 minutes",
     "servings": "5 servings",
@@ -94,7 +94,7 @@
   },
   {
     "name": "Kamaru",
-    "description": "Kamaru is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Kamaru is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like 1/4, 2, cup, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "62 minutes",
     "servings": "5 servings",
@@ -116,7 +116,7 @@
   },
   {
     "name": "Betute Tugak",
-    "description": "Betute Tugak is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Betute Tugak is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like cup, small, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "66 minutes",
     "servings": "6 servings",
@@ -139,7 +139,7 @@
   },
   {
     "name": "Tidtad",
-    "description": "Tidtad is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Tidtad is a tasty Kapampangan side dish that complements main courses with its rich flavor. It often features ingredients like 1/4, cup, which give it its signature taste and aroma.",
     "category": "Side Dish",
     "estimated_time": "86 minutes",
     "servings": "6 servings",
@@ -164,7 +164,7 @@
   },
   {
     "name": "Morcon",
-    "description": "Morcon is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Morcon is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like 2, cup, small, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "38 minutes",
     "servings": "2 servings",
@@ -189,7 +189,7 @@
   },
   {
     "name": "Embutido",
-    "description": "Embutido is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Embutido is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like 1/4, cup, tbsp, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "89 minutes",
     "servings": "4 servings",
@@ -213,7 +213,7 @@
   },
   {
     "name": "Lechon Kawali",
-    "description": "Lechon Kawali is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Lechon Kawali is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like 2, cup, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "61 minutes",
     "servings": "3 servings",
@@ -237,7 +237,7 @@
   },
   {
     "name": "Kare-Kare",
-    "description": "Kare-Kare is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Kare-Kare is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like 2, cup, small, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "43 minutes",
     "servings": "6 servings",
@@ -261,7 +261,7 @@
   },
   {
     "name": "Bopis",
-    "description": "Bopis is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Bopis is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings. It often features ingredients like 2, cup, tbsp, which give it its signature taste and aroma.",
     "category": "Main Dish",
     "estimated_time": "85 minutes",
     "servings": "6 servings",
@@ -286,7 +286,7 @@
   },
   {
     "name": "Dinuguan",
-    "description": "Dinuguan is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Dinuguan is a sweet Kapampangan dessert that brings a delightful end to any meal. It often features ingredients like cup, which give it its signature taste and aroma.",
     "category": "Dessert",
     "estimated_time": "33 minutes",
     "servings": "4 servings",
@@ -309,7 +309,7 @@
   },
   {
     "name": "Paksiw na Lechon",
-    "description": "Paksiw na Lechon is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Paksiw na Lechon is a tasty Kapampangan side dish that complements main courses with its rich flavor. It often features ingredients like 2, cup, small, which give it its signature taste and aroma.",
     "category": "Side Dish",
     "estimated_time": "35 minutes",
     "servings": "2 servings",
@@ -336,7 +336,7 @@
   },
   {
     "name": "Kalderetang Kambing",
-    "description": "Kalderetang Kambing is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Kalderetang Kambing is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like 1/4, 2, cup, tbsp, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "85 minutes",
     "servings": "6 servings",
@@ -358,7 +358,7 @@
   },
   {
     "name": "Chicharon Bulaklak",
-    "description": "Chicharon Bulaklak is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Chicharon Bulaklak is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings. It often features ingredients like cup, which give it its signature taste and aroma.",
     "category": "Main Dish",
     "estimated_time": "71 minutes",
     "servings": "2 servings",
@@ -379,7 +379,7 @@
   },
   {
     "name": "Menudo",
-    "description": "Menudo is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Menudo is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like 1/4, 2, cup, small, tbsp, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "33 minutes",
     "servings": "5 servings",
@@ -404,7 +404,7 @@
   },
   {
     "name": "Afritada",
-    "description": "Afritada is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Afritada is a tasty Kapampangan side dish that complements main courses with its rich flavor. It often features ingredients like cup, small, tbsp, which give it its signature taste and aroma.",
     "category": "Side Dish",
     "estimated_time": "77 minutes",
     "servings": "3 servings",
@@ -431,7 +431,7 @@
   },
   {
     "name": "Adobong Puti",
-    "description": "Adobong Puti is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Adobong Puti is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings. It often features ingredients like 2, cup, small, tbsp, which give it its signature taste and aroma.",
     "category": "Main Dish",
     "estimated_time": "77 minutes",
     "servings": "4 servings",
@@ -456,7 +456,7 @@
   },
   {
     "name": "Bulanglang",
-    "description": "Bulanglang is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Bulanglang is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings. It often features ingredients like 1/4, 2, cup, small, which give it its signature taste and aroma.",
     "category": "Main Dish",
     "estimated_time": "70 minutes",
     "servings": "3 servings",
@@ -478,7 +478,7 @@
   },
   {
     "name": "Gatang Kuhol",
-    "description": "Gatang Kuhol is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Gatang Kuhol is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings. It often features ingredients like 1/4, 2, cup, which give it its signature taste and aroma.",
     "category": "Main Dish",
     "estimated_time": "56 minutes",
     "servings": "5 servings",
@@ -505,7 +505,7 @@
   },
   {
     "name": "Paksiw na Isda",
-    "description": "Paksiw na Isda is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Paksiw na Isda is a tasty Kapampangan side dish that complements main courses with its rich flavor. It often features ingredients like 2, cup, small, tbsp, which give it its signature taste and aroma.",
     "category": "Side Dish",
     "estimated_time": "66 minutes",
     "servings": "4 servings",
@@ -532,7 +532,7 @@
   },
   {
     "name": "Lelang Paro",
-    "description": "Lelang Paro is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Lelang Paro is a sweet Kapampangan dessert that brings a delightful end to any meal. It often features ingredients like 1/4, cup, tbsp, which give it its signature taste and aroma.",
     "category": "Dessert",
     "estimated_time": "72 minutes",
     "servings": "3 servings",
@@ -553,7 +553,7 @@
   },
   {
     "name": "Arroz Valenciana",
-    "description": "Arroz Valenciana is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Arroz Valenciana is a sweet Kapampangan dessert that brings a delightful end to any meal. It often features ingredients like 2, tbsp, which give it its signature taste and aroma.",
     "category": "Dessert",
     "estimated_time": "56 minutes",
     "servings": "2 servings",
@@ -577,7 +577,7 @@
   },
   {
     "name": "Kilayin",
-    "description": "Kilayin is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Kilayin is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like cup, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "35 minutes",
     "servings": "4 servings",
@@ -602,7 +602,7 @@
   },
   {
     "name": "Pork Asado",
-    "description": "Pork Asado is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Pork Asado is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings. It often features ingredients like 1/4, cup, which give it its signature taste and aroma.",
     "category": "Main Dish",
     "estimated_time": "34 minutes",
     "servings": "6 servings",
@@ -625,7 +625,7 @@
   },
   {
     "name": "Hamonado",
-    "description": "Hamonado is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Hamonado is a sweet Kapampangan dessert that brings a delightful end to any meal. It often features ingredients like 2, cup, tbsp, which give it its signature taste and aroma.",
     "category": "Dessert",
     "estimated_time": "73 minutes",
     "servings": "2 servings",
@@ -650,7 +650,7 @@
   },
   {
     "name": "Nilagang Baka",
-    "description": "Nilagang Baka is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Nilagang Baka is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like 1/4, 2, cup, tbsp, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "53 minutes",
     "servings": "5 servings",
@@ -673,7 +673,7 @@
   },
   {
     "name": "Sinigang na Baboy",
-    "description": "Sinigang na Baboy is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Sinigang na Baboy is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings. It often features ingredients like 1/4, cup, small, tbsp, which give it its signature taste and aroma.",
     "category": "Main Dish",
     "estimated_time": "67 minutes",
     "servings": "2 servings",
@@ -697,7 +697,7 @@
   },
   {
     "name": "Ginisang Monggo",
-    "description": "Ginisang Monggo is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Ginisang Monggo is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like 1/4, 2, cup, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "88 minutes",
     "servings": "4 servings",
@@ -719,7 +719,7 @@
   },
   {
     "name": "Tokwa't Baboy",
-    "description": "Tokwa't Baboy is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Tokwa't Baboy is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings. It often features ingredients like 1/4, 2, cup, which give it its signature taste and aroma.",
     "category": "Main Dish",
     "estimated_time": "48 minutes",
     "servings": "4 servings",
@@ -745,7 +745,7 @@
   },
   {
     "name": "Pritong Lumpia",
-    "description": "Pritong Lumpia is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Pritong Lumpia is a sweet Kapampangan dessert that brings a delightful end to any meal. It often features ingredients like cup, small, tbsp, which give it its signature taste and aroma.",
     "category": "Dessert",
     "estimated_time": "34 minutes",
     "servings": "4 servings",
@@ -767,7 +767,7 @@
   },
   {
     "name": "Pancit Luglug",
-    "description": "Pancit Luglug is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Pancit Luglug is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings. It often features ingredients like cup, which give it its signature taste and aroma.",
     "category": "Main Dish",
     "estimated_time": "63 minutes",
     "servings": "2 servings",
@@ -790,7 +790,7 @@
   },
   {
     "name": "Pancit Palabok",
-    "description": "Pancit Palabok is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Pancit Palabok is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings. It often features ingredients like 2, cup, small, tbsp, which give it its signature taste and aroma.",
     "category": "Main Dish",
     "estimated_time": "37 minutes",
     "servings": "6 servings",
@@ -816,7 +816,7 @@
   },
   {
     "name": "Baked Macaroni",
-    "description": "Baked Macaroni is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Baked Macaroni is a tasty Kapampangan side dish that complements main courses with its rich flavor. It often features ingredients like 1/4, small, which give it its signature taste and aroma.",
     "category": "Side Dish",
     "estimated_time": "54 minutes",
     "servings": "3 servings",
@@ -840,7 +840,7 @@
   },
   {
     "name": "Ginataang Langka",
-    "description": "Ginataang Langka is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Ginataang Langka is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like 1/4, cup, small, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "56 minutes",
     "servings": "2 servings",
@@ -864,7 +864,7 @@
   },
   {
     "name": "Ginataang Puso ng Saging",
-    "description": "Ginataang Puso ng Saging is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Ginataang Puso ng Saging is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings. It often features ingredients like 1/4, cup, small, which give it its signature taste and aroma.",
     "category": "Main Dish",
     "estimated_time": "82 minutes",
     "servings": "5 servings",
@@ -887,7 +887,7 @@
   },
   {
     "name": "Laing",
-    "description": "Laing is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Laing is a sweet Kapampangan dessert that brings a delightful end to any meal. It often features ingredients like cup, small, which give it its signature taste and aroma.",
     "category": "Dessert",
     "estimated_time": "58 minutes",
     "servings": "6 servings",
@@ -910,7 +910,7 @@
   },
   {
     "name": "Ukoy",
-    "description": "Ukoy is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Ukoy is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like cup, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "50 minutes",
     "servings": "4 servings",
@@ -934,7 +934,7 @@
   },
   {
     "name": "Tortang Talong",
-    "description": "Tortang Talong is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Tortang Talong is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like cup, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "36 minutes",
     "servings": "3 servings",
@@ -960,7 +960,7 @@
   },
   {
     "name": "Inihaw na Bangus",
-    "description": "Inihaw na Bangus is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Inihaw na Bangus is a tasty Kapampangan side dish that complements main courses with its rich flavor. It often features ingredients like 2, tbsp, which give it its signature taste and aroma.",
     "category": "Side Dish",
     "estimated_time": "78 minutes",
     "servings": "3 servings",
@@ -986,7 +986,7 @@
   },
   {
     "name": "Rellenong Bangus",
-    "description": "Rellenong Bangus is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Rellenong Bangus is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like tbsp, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "31 minutes",
     "servings": "4 servings",
@@ -1012,7 +1012,7 @@
   },
   {
     "name": "Tinolang Manok",
-    "description": "Tinolang Manok is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Tinolang Manok is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like small, tbsp, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "61 minutes",
     "servings": "2 servings",
@@ -1036,7 +1036,7 @@
   },
   {
     "name": "Chicken Inasal",
-    "description": "Chicken Inasal is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Chicken Inasal is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like cup, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "77 minutes",
     "servings": "2 servings",
@@ -1058,7 +1058,7 @@
   },
   {
     "name": "Pastel",
-    "description": "Pastel is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Pastel is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like 2, cup, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "66 minutes",
     "servings": "6 servings",
@@ -1079,7 +1079,7 @@
   },
   {
     "name": "Pininyahang Manok",
-    "description": "Pininyahang Manok is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Pininyahang Manok is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like cup, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "72 minutes",
     "servings": "2 servings",
@@ -1103,7 +1103,7 @@
   },
   {
     "name": "Ginataang Manok",
-    "description": "Ginataang Manok is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Ginataang Manok is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like 2, cup, small, tbsp, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "34 minutes",
     "servings": "5 servings",
@@ -1129,7 +1129,7 @@
   },
   {
     "name": "Leche Flan",
-    "description": "Leche Flan is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Leche Flan is a tasty Kapampangan side dish that complements main courses with its rich flavor. It often features ingredients like cup, which give it its signature taste and aroma.",
     "category": "Side Dish",
     "estimated_time": "65 minutes",
     "servings": "2 servings",
@@ -1150,7 +1150,7 @@
   },
   {
     "name": "Brazo de Mercedes",
-    "description": "Brazo de Mercedes is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Brazo de Mercedes is a sweet Kapampangan dessert that brings a delightful end to any meal. It often features ingredients like 2, cup, which give it its signature taste and aroma.",
     "category": "Dessert",
     "estimated_time": "30 minutes",
     "servings": "3 servings",
@@ -1175,7 +1175,7 @@
   },
   {
     "name": "San Nicolas Cookies",
-    "description": "San Nicolas Cookies is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "San Nicolas Cookies is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like cup, small, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "74 minutes",
     "servings": "3 servings",
@@ -1198,7 +1198,7 @@
   },
   {
     "name": "Turon",
-    "description": "Turon is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Turon is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like 2, cup, small, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "89 minutes",
     "servings": "3 servings",
@@ -1222,7 +1222,7 @@
   },
   {
     "name": "Bibingka",
-    "description": "Bibingka is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Bibingka is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like 1/4, cup, tbsp, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "89 minutes",
     "servings": "5 servings",
@@ -1247,7 +1247,7 @@
   },
   {
     "name": "Puto Bumbong",
-    "description": "Puto Bumbong is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Puto Bumbong is a tasty Kapampangan side dish that complements main courses with its rich flavor. It often features ingredients like 1/4, cup, small, tbsp, which give it its signature taste and aroma.",
     "category": "Side Dish",
     "estimated_time": "30 minutes",
     "servings": "2 servings",
@@ -1273,7 +1273,7 @@
   },
   {
     "name": "Kutsinta",
-    "description": "Kutsinta is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Kutsinta is a tasty Kapampangan side dish that complements main courses with its rich flavor. It often features ingredients like 1/4, cup, which give it its signature taste and aroma.",
     "category": "Side Dish",
     "estimated_time": "52 minutes",
     "servings": "3 servings",
@@ -1299,7 +1299,7 @@
   },
   {
     "name": "Sapin-Sapin",
-    "description": "Sapin-Sapin is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Sapin-Sapin is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings. It often features ingredients like cup, tbsp, which give it its signature taste and aroma.",
     "category": "Main Dish",
     "estimated_time": "83 minutes",
     "servings": "4 servings",
@@ -1324,7 +1324,7 @@
   },
   {
     "name": "Buko Pandan",
-    "description": "Buko Pandan is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Buko Pandan is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like small, tbsp, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "85 minutes",
     "servings": "2 servings",
@@ -1349,7 +1349,7 @@
   },
   {
     "name": "Halo-Halo",
-    "description": "Halo-Halo is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Halo-Halo is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like cup, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "53 minutes",
     "servings": "6 servings",
@@ -1373,7 +1373,7 @@
   },
   {
     "name": "Ube Halaya",
-    "description": "Ube Halaya is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Ube Halaya is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like 2, cup, small, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "86 minutes",
     "servings": "3 servings",
@@ -1400,7 +1400,7 @@
   },
   {
     "name": "Maja Blanca",
-    "description": "Maja Blanca is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Maja Blanca is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like cup, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "77 minutes",
     "servings": "3 servings",
@@ -1423,7 +1423,7 @@
   },
   {
     "name": "Palitaw",
-    "description": "Palitaw is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Palitaw is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings. It often features ingredients like cup, which give it its signature taste and aroma.",
     "category": "Main Dish",
     "estimated_time": "68 minutes",
     "servings": "2 servings",
@@ -1448,7 +1448,7 @@
   },
   {
     "name": "Cassava Cake",
-    "description": "Cassava Cake is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Cassava Cake is a tasty Kapampangan side dish that complements main courses with its rich flavor. It often features ingredients like 1/4, 2, cup, small, which give it its signature taste and aroma.",
     "category": "Side Dish",
     "estimated_time": "45 minutes",
     "servings": "3 servings",
@@ -1473,7 +1473,7 @@
   },
   {
     "name": "Pichi-Pichi",
-    "description": "Pichi-Pichi is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Pichi-Pichi is a sweet Kapampangan dessert that brings a delightful end to any meal. It often features ingredients like cup, which give it its signature taste and aroma.",
     "category": "Dessert",
     "estimated_time": "55 minutes",
     "servings": "3 servings",
@@ -1498,7 +1498,7 @@
   },
   {
     "name": "Puto",
-    "description": "Puto is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Puto is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like 1/4, cup, tbsp, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "47 minutes",
     "servings": "5 servings",
@@ -1520,7 +1520,7 @@
   },
   {
     "name": "Suman",
-    "description": "Suman is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Suman is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like small, tbsp, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "48 minutes",
     "servings": "6 servings",
@@ -1544,7 +1544,7 @@
   },
   {
     "name": "Nilupak",
-    "description": "Nilupak is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Nilupak is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like cup, tbsp, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "33 minutes",
     "servings": "2 servings",
@@ -1569,7 +1569,7 @@
   },
   {
     "name": "Ginataang Bilo-Bilo",
-    "description": "Ginataang Bilo-Bilo is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Ginataang Bilo-Bilo is a sweet Kapampangan dessert that brings a delightful end to any meal. It often features ingredients like cup, small, tbsp, which give it its signature taste and aroma.",
     "category": "Dessert",
     "estimated_time": "66 minutes",
     "servings": "3 servings",
@@ -1591,7 +1591,7 @@
   },
   {
     "name": "Banana Cue",
-    "description": "Banana Cue is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Banana Cue is a sweet Kapampangan dessert that brings a delightful end to any meal. It often features ingredients like tbsp, which give it its signature taste and aroma.",
     "category": "Dessert",
     "estimated_time": "55 minutes",
     "servings": "2 servings",
@@ -1613,7 +1613,7 @@
   },
   {
     "name": "Camote Cue",
-    "description": "Camote Cue is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Camote Cue is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like 1/4, cup, small, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "40 minutes",
     "servings": "5 servings",
@@ -1639,7 +1639,7 @@
   },
   {
     "name": "Biko",
-    "description": "Biko is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Biko is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like 1/4, cup, small, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "32 minutes",
     "servings": "4 servings",
@@ -1660,7 +1660,7 @@
   },
   {
     "name": "Arroz Caldo",
-    "description": "Arroz Caldo is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Arroz Caldo is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like cup, tbsp, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "61 minutes",
     "servings": "3 servings",
@@ -1685,7 +1685,7 @@
   },
   {
     "name": "Champorado",
-    "description": "Champorado is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Champorado is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like cup, small, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "47 minutes",
     "servings": "5 servings",
@@ -1708,7 +1708,7 @@
   },
   {
     "name": "Taho",
-    "description": "Taho is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Taho is a tasty Kapampangan side dish that complements main courses with its rich flavor. It often features ingredients like 2, tbsp, which give it its signature taste and aroma.",
     "category": "Side Dish",
     "estimated_time": "75 minutes",
     "servings": "6 servings",
@@ -1732,7 +1732,7 @@
   },
   {
     "name": "Pandesal",
-    "description": "Pandesal is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Pandesal is a sweet Kapampangan dessert that brings a delightful end to any meal. It often features ingredients like 2, cup, tbsp, which give it its signature taste and aroma.",
     "category": "Dessert",
     "estimated_time": "71 minutes",
     "servings": "6 servings",
@@ -1755,7 +1755,7 @@
   },
   {
     "name": "Ensaymada",
-    "description": "Ensaymada is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Ensaymada is a tasty Kapampangan side dish that complements main courses with its rich flavor. It often features ingredients like 1/4, 2, tbsp, which give it its signature taste and aroma.",
     "category": "Side Dish",
     "estimated_time": "86 minutes",
     "servings": "4 servings",
@@ -1778,7 +1778,7 @@
   },
   {
     "name": "Monay",
-    "description": "Monay is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Monay is a tasty Kapampangan side dish that complements main courses with its rich flavor. It often features ingredients like cup, which give it its signature taste and aroma.",
     "category": "Side Dish",
     "estimated_time": "55 minutes",
     "servings": "4 servings",
@@ -1801,7 +1801,7 @@
   },
   {
     "name": "Spanish Bread",
-    "description": "Spanish Bread is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Spanish Bread is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like 1/4, cup, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "76 minutes",
     "servings": "3 servings",
@@ -1824,7 +1824,7 @@
   },
   {
     "name": "Pan de Coco",
-    "description": "Pan de Coco is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Pan de Coco is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings. It often features ingredients like 1/4, 2, cup, small, tbsp, which give it its signature taste and aroma.",
     "category": "Main Dish",
     "estimated_time": "69 minutes",
     "servings": "2 servings",
@@ -1850,7 +1850,7 @@
   },
   {
     "name": "Kababayan Bread",
-    "description": "Kababayan Bread is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Kababayan Bread is a sweet Kapampangan dessert that brings a delightful end to any meal. It often features ingredients like cup, which give it its signature taste and aroma.",
     "category": "Dessert",
     "estimated_time": "44 minutes",
     "servings": "6 servings",
@@ -1871,7 +1871,7 @@
   },
   {
     "name": "Egg Pie",
-    "description": "Egg Pie is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Egg Pie is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like 1/4, cup, small, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "43 minutes",
     "servings": "2 servings",
@@ -1895,7 +1895,7 @@
   },
   {
     "name": "Yema Cake",
-    "description": "Yema Cake is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Yema Cake is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like cup, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "52 minutes",
     "servings": "6 servings",
@@ -1918,7 +1918,7 @@
   },
   {
     "name": "Ube Cake",
-    "description": "Ube Cake is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Ube Cake is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like 2, cup, small, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "44 minutes",
     "servings": "6 servings",
@@ -1944,7 +1944,7 @@
   },
   {
     "name": "Mango Float",
-    "description": "Mango Float is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Mango Float is a tasty Kapampangan side dish that complements main courses with its rich flavor. It often features ingredients like 1/4, 2, cup, small, which give it its signature taste and aroma.",
     "category": "Side Dish",
     "estimated_time": "74 minutes",
     "servings": "4 servings",
@@ -1971,7 +1971,7 @@
   },
   {
     "name": "Creamy Buko Salad",
-    "description": "Creamy Buko Salad is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Creamy Buko Salad is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like 1/4, 2, cup, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "70 minutes",
     "servings": "6 servings",
@@ -1997,7 +1997,7 @@
   },
   {
     "name": "Buko Pie",
-    "description": "Buko Pie is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Buko Pie is a tasty Kapampangan side dish that complements main courses with its rich flavor. It often features ingredients like cup, small, which give it its signature taste and aroma.",
     "category": "Side Dish",
     "estimated_time": "76 minutes",
     "servings": "5 servings",
@@ -2022,7 +2022,7 @@
   },
   {
     "name": "Pineapple Upside Down Cake",
-    "description": "Pineapple Upside Down Cake is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Pineapple Upside Down Cake is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like 2, cup, small, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "39 minutes",
     "servings": "4 servings",
@@ -2046,7 +2046,7 @@
   },
   {
     "name": "Cassava Bibingka",
-    "description": "Cassava Bibingka is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Cassava Bibingka is a sweet Kapampangan dessert that brings a delightful end to any meal. It often features ingredients like 1/4, 2, cup, which give it its signature taste and aroma.",
     "category": "Dessert",
     "estimated_time": "32 minutes",
     "servings": "4 servings",
@@ -2070,7 +2070,7 @@
   },
   {
     "name": "Maruya",
-    "description": "Maruya is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Maruya is a tasty Kapampangan side dish that complements main courses with its rich flavor. It often features ingredients like 1/4, which give it its signature taste and aroma.",
     "category": "Side Dish",
     "estimated_time": "59 minutes",
     "servings": "6 servings",
@@ -2094,7 +2094,7 @@
   },
   {
     "name": "Sinukmani",
-    "description": "Sinukmani is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Sinukmani is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings. It often features ingredients like 2, cup, which give it its signature taste and aroma.",
     "category": "Main Dish",
     "estimated_time": "83 minutes",
     "servings": "4 servings",
@@ -2115,7 +2115,7 @@
   },
   {
     "name": "Kalamay",
-    "description": "Kalamay is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Kalamay is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like cup, small, tbsp, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "72 minutes",
     "servings": "2 servings",
@@ -2138,7 +2138,7 @@
   },
   {
     "name": "Ginataang Mais",
-    "description": "Ginataang Mais is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Ginataang Mais is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like 1/4, 2, cup, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "48 minutes",
     "servings": "6 servings",
@@ -2162,7 +2162,7 @@
   },
   {
     "name": "Peanut Brittle",
-    "description": "Peanut Brittle is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Peanut Brittle is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like 1/4, cup, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "43 minutes",
     "servings": "2 servings",
@@ -2188,7 +2188,7 @@
   },
   {
     "name": "Polvoron",
-    "description": "Polvoron is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Polvoron is a traditional Kapampangan breakfast dish, perfect for starting the day with warmth and flavor. It often features ingredients like 1/4, 2, cup, which give it its signature taste and aroma.",
     "category": "Breakfast",
     "estimated_time": "52 minutes",
     "servings": "2 servings",
@@ -2211,7 +2211,7 @@
   },
   {
     "name": "Pastillas",
-    "description": "Pastillas is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Pastillas is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings.",
     "category": "Main Dish",
     "estimated_time": "80 minutes",
     "servings": "2 servings",
@@ -2237,7 +2237,7 @@
   },
   {
     "name": "Tibok-Tibok",
-    "description": "Tibok-Tibok is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Tibok-Tibok is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings. It often features ingredients like 1/4, cup, which give it its signature taste and aroma.",
     "category": "Main Dish",
     "estimated_time": "53 minutes",
     "servings": "6 servings",
@@ -2262,7 +2262,7 @@
   },
   {
     "name": "Panutsa",
-    "description": "Panutsa is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Panutsa is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like 2, cup, small, tbsp, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "64 minutes",
     "servings": "5 servings",
@@ -2284,7 +2284,7 @@
   },
   {
     "name": "Kropek",
-    "description": "Kropek is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Kropek is a tasty Kapampangan side dish that complements main courses with its rich flavor. It often features ingredients like 2, cup, small, which give it its signature taste and aroma.",
     "category": "Side Dish",
     "estimated_time": "58 minutes",
     "servings": "4 servings",
@@ -2310,7 +2310,7 @@
   },
   {
     "name": "Lumpiang Ubod",
-    "description": "Lumpiang Ubod is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Lumpiang Ubod is a hearty main course in Kapampangan cuisine, often enjoyed during family meals and special gatherings. It often features ingredients like cup, tbsp, which give it its signature taste and aroma.",
     "category": "Main Dish",
     "estimated_time": "32 minutes",
     "servings": "4 servings",
@@ -2336,7 +2336,7 @@
   },
   {
     "name": "Kilawin",
-    "description": "Kilawin is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Kilawin is a sweet Kapampangan dessert that brings a delightful end to any meal. It often features ingredients like 1/4, cup, which give it its signature taste and aroma.",
     "category": "Dessert",
     "estimated_time": "68 minutes",
     "servings": "3 servings",
@@ -2358,7 +2358,7 @@
   },
   {
     "name": "Inasal na Pusit",
-    "description": "Inasal na Pusit is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Inasal na Pusit is a beloved Kapampangan snack known for its flavorful ingredients and satisfying texture. It often features ingredients like cup, small, tbsp, which give it its signature taste and aroma.",
     "category": "Snack",
     "estimated_time": "90 minutes",
     "servings": "4 servings",
@@ -2380,7 +2380,7 @@
   },
   {
     "name": "Pritong Tilapia",
-    "description": "Pritong Tilapia is a traditional Kapampangan dish loved for its rich flavor and cultural roots.",
+    "description": "Pritong Tilapia is a sweet Kapampangan dessert that brings a delightful end to any meal. It often features ingredients like 2, cup, which give it its signature taste and aroma.",
     "category": "Dessert",
     "estimated_time": "90 minutes",
     "servings": "2 servings",
