@@ -1464,11 +1464,23 @@
     "estimated_time": "72 minutes",
     "servings": "2 servings",
     "ingredients": [
-      "Please refer to authentic Kapampangan recipes."
-    ],
-    "instructions": [
-      "Please refer to authentic Kapampangan recipes."
-    ],
+        "4 cups coconut milk",
+        "3/4 cup grated purple yam (ube)",
+        "2 teaspoons purple ube flavoring",
+        "2 cups glutinous rice flour",
+        "1 ½ cups granulated white sugar",
+        "½ cup latik",
+        "2 tablespoons coconut oil"
+      ],
+      "instructions": [
+        "Combine water, glutinous rice flour, and 2 cups of coconut milk in a bowl. Mix well using a wire whisk. Set aside.",
+        "Heat a cooking pot and pour 2 cups of coconut milk. Let boil.",
+        "Add shredded purple yam. Stir and cook on medium heat for 3 minutes.",
+        "Pour the glutinous rice flour mixture into the cooking pot. Stir until all ingredients are well blended.",
+        "Gradually add the sugar while stirring. Continue to cook until the mixture becomes very thick.",
+        "Brush coconut oil in a mold (such as a quiche mold). Put the cooked ube kalamay in the mold and spread it around.",
+        "Brush remaining coconut oil over the ube kalamay. Flatten the top using a spoon and top with latik."
+      ],
     "image": "https://www.kawalingpinoy.com/wp-content/uploads/2017/04/kalamay-sa-latik-12.jpg"
   },
   {
@@ -1478,11 +1490,21 @@
     "estimated_time": "48 minutes",
     "servings": "6 servings",
     "ingredients": [
-      "Please refer to authentic Kapampangan recipes."
-    ],
-    "instructions": [
-      "Please refer to authentic Kapampangan recipes."
-    ],
+        "6 cups coconut milk",
+        "3/4 cups sweet rice malagkit",
+        "1 cup toasted mung beans cracked",
+        "1 cup sweet corn",
+        "1 cup granulated white sugar",
+        "1 teaspoon vanilla extract"
+      ],
+      "instructions": [
+        "Pour the coconut milk in a cooking pot. Let boil.",
+        "Stir-in the sweet rice (also known as glutinous rice). Cook for 5 minutes on medium heat while stirring every minute.",
+        "Add the toasted mung beans. Stir and cook for 6 to 8 minutes.",
+        "Stir the corn in the pot. Continue to cook while constantly stirring for 8 to 10 minutes.",
+        "Add the sugar; stir well.",
+        "Pour in the vanilla extract. Stir and cook until the mung beans are soft. Add salt, if preferred."
+      ],
     "image": "https://images.yummy.ph/yummy/uploads/2017/08/ginataang-mais-1.jpg"
   },
   {
@@ -1492,11 +1514,16 @@
     "estimated_time": "80 minutes",
     "servings": "2 servings",
     "ingredients": [
-      "Please refer to authentic Kapampangan main dish recipes."
-    ],
-    "instructions": [
-      "Please refer to authentic Kapampangan main dish recipes."
-    ],
+        "2 cups powdered milk, sifted",
+        "1 can (14 ounces) condensed milk",
+        "½ cup granulated sugar, sifted"
+      ],
+      "instructions": [
+        "Place the condensed milk in a large mixing bowl.",
+        "Gradually fold in the powdered milk until the texture resembles dough.",
+        "Scoop some of the mixture and mold it into cylinders.",
+        "Roll each molded cylindrical mixture in granulated sugar."
+      ],
     "image": "https://www.tastingtable.com/img/gallery/pastillas-are-a-milky-sweet-treat-you-should-know-from-the-philippines/l-intro-1676388726.jpg"
   },
   {
@@ -1506,11 +1533,35 @@
     "estimated_time": "32 minutes",
     "servings": "4 servings",
     "ingredients": [
-      "Please refer to authentic Kapampangan main dish recipes."
-    ],
-    "instructions": [
-      "Please refer to authentic Kapampangan main dish recipes."
-    ],
+        "1 lb. hearts of palm (ubod)",
+        "1 piece Knorr Shrimp Cube",
+        "4 ounces pork, thinly sliced",
+        "12 pieces shrimp, deveined",
+        "1 carrot, julienned",
+        "2 tablespoons parsley, chopped",
+        "1 piece onion, chopped",
+        "4 cloves garlic, crushed",
+        "3 tablespoons cooking oil",
+        "Fish sauce and ground black pepper to taste",
+        "8 pieces lettuce leaves",
+        "1/2 cup roast (optional, for added flavor)"
+      ],
+      "instructions": [
+        "Prepare the filling by heating 3 tablespoons oil in a pan. Sauté the chopped onion and crushed garlic until the onion softens.",
+        "Add the pork and sauté until light brown. Pour in 1 ½ cups of water and let boil.",
+        "Add the Knorr Shrimp Cube; stir and continue boiling on medium heat until the liquid evaporates.",
+        "Add the hearts of palm (ubod) and cook for 5 minutes, tossing every few seconds.",
+        "Add the carrots and cook for an additional 3 minutes.",
+        "Incorporate the shrimp and continue cooking until they turn orange.",
+        "Stir in the chopped parsley and season with ground black pepper and fish sauce. Set aside the filling.",
+        "For the sauce, pour water in a saucepan and let it boil.",
+        "Add brown sugar and soy sauce; stir until completely dissolved.",
+        "Add garlic (minced or whole, based on preference) and cook for 20 seconds.",
+        "Combine cornstarch with 3 tablespoons of water, stir until blended, then pour the mixture into the saucepan while continuously stirring until the sauce thickens. Set aside.",
+        "Make the lumpia wrapper by beating eggs in a bowl. Stir in cooking oil and add water. Gradually add all-purpose flour while stirring until the mixture is smooth (you may strain to remove lumps).",
+        "Cook the wrapper in a non-stick pan greased with oil until it can freely slide when the pan is shaken. Transfer to a clean plate and repeat until all the batter is used.",
+        "To assemble, place a piece of wrapper on a plate, lay a lettuce leaf on top, add a good amount of the filling, and gently wrap."
+      ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/2013_Angeles_Philippines_Trip_Day_5_-_Lumpiang_Ubod.jpg"
   },
   {
@@ -1520,11 +1571,19 @@
     "estimated_time": "68 minutes",
     "servings": "3 servings",
     "ingredients": [
-      "Please refer to authentic Kapampangan dessert recipes."
-    ],
-    "instructions": [
-      "Please refer to authentic Kapampangan dessert recipes."
-    ],
+        "1/2 lb silverfish (dulong), cleaned",
+        "1 to 2 pieces lemon or 6 to 8 pieces calamansi",
+        "1 1/2 tablespoons ginger, minced",
+        "2 teaspoons salt",
+        "1/2 teaspoon ground black pepper",
+        "1 to 2 teaspoons bird’s eye chili (siling labuyo), minced"
+      ],
+      "instructions": [
+        "Combine silverfish, salt, and ground black pepper in a bowl, and mix gently until evenly incorporated.",
+        "Add the minced ginger and minced bird’s eye chili; continue mixing until well distributed.",
+        "Squeeze in lemon or calamansi juice and stir gently to blend the flavors.",
+        "Refrigerate for at least 30 minutes to allow the citric acid to gently cook the fish."
+      ],
     "image": "https://www.seriouseats.com/thmb/EDJACM-L6nyjz87glF5ASLbuT7I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210727-KILAWIN-PORKBELLY-JANJIGIAN-seriouseats-10-420c5c458ac9456d8013b65f78950d1c.jpg"
   },
   {
@@ -1534,11 +1593,23 @@
     "estimated_time": "90 minutes",
     "servings": "4 servings",
     "ingredients": [
-      "Please refer to authentic Kapampangan recipes."
-    ],
-    "instructions": [
-      "Please refer to authentic Kapampangan recipes."
-    ],
+        "2 squid",
+        "2 Roma tomatoes, finely chopped",
+        "1 onion, peeled and finely chopped",
+        "Salt and pepper to taste",
+        "Honey, brown sugar, vinegar, garlic, ginger, and chili peppers for the marinade"
+      ],
+      "instructions": [
+        "Hold the squid by the tail tube and remove the cuttlebone by pulling it from the squid’s body.",
+        "Remove and discard the black ink. Rinse the squid and drain well.",
+        "In a bowl, combine honey, brown sugar, vinegar, garlic, ginger, salt, and chili peppers. Stir until the sugar and salt are dissolved.",
+        "Lay the squid in a single layer, cover, and marinate in the refrigerator for about 1 hour.",
+        "Drain the squid well and pat dry; reserve the marinade.",
+        "In a saucepan, boil the reserved marinade for about 7 to 10 minutes until it is reduced.",
+        "In another bowl, combine the chopped tomatoes and onions, and season with salt and pepper.",
+        "Stuff each squid with the tomato-onion mixture.",
+        "Grill the squid over hot coals for about 4 to 5 minutes on each side, basting regularly with the marinade."
+      ],
     "image": "https://www.kawalingpinoy.com/wp-content/uploads/2013/06/inihaw-na-pusit-8.jpg"
   },
   {
@@ -1548,11 +1619,17 @@
     "estimated_time": "90 minutes",
     "servings": "2 servings",
     "ingredients": [
-      "Please refer to authentic Kapampangan dessert recipes."
-    ],
-    "instructions": [
-      "Please refer to authentic Kapampangan dessert recipes."
-    ],
+        "2 pieces tilapia, cleaned and scales removed",
+        "2 teaspoons salt",
+        "1 cup cooking oil"
+      ],
+      "instructions": [
+        "Rub salt all over the fish, including the insides.",
+        "Heat the cooking oil in a wide frying pan.",
+        "Once the oil is hot, add the tilapia. Cover the pan but leave a small opening for the steam to escape.",
+        "Fry each side on medium heat for about 6 to 10 minutes. When there is no more sizzling sound, the liquid has evaporated and the fish becomes crisp.",
+        "Remove the fish from the pan and arrange on a serving plate."
+      ],
     "image": "https://www.maggi.ph/sites/default/files/srh_recipes/55c31e0994061c19912e468538c8043a.jpg"
   }
 ]
